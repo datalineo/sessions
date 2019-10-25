@@ -1,0 +1,16 @@
+{
+"powerbi" : {
+	"datasetid": "63b0fdef-19e7-4210-8488-9394edbe8738",
+	"groupid": "535776cb-7c86-42a2-9231-b0d8c592389d",
+	"tablename": "RealTimeData" },
+"sqlserver": {
+	"servername": "datalineo.database.windows.net",
+	"database": "ImageAnalytics",
+	"username": "datalineo",
+	"password": "SandyNesta991" },
+"storage": {
+	"account": "lineoimagestore",
+	"key": "5pXq2txuzs6KDKOP8O/wNAdI0DjSnEstPtY+cgy6K811Nz/8xdDQ6Mr2KEPqYvnlVQBgAS003BNKPqPc7iqTIg==",
+	"container1": "faceme",
+	"container2": "addme" }
+}
