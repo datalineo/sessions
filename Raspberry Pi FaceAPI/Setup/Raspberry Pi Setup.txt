@@ -1,0 +1,115 @@
+# -----------------
+# ITEM 1
+# Equipment
+# -----------------
+
+1. A raspberry Pi kit: the Pi, Power Supply, SD card with OS installed
+2. A Grove Pi kit: the relevant Grove Pi setup completed
+
+Equipment
+WARNING: the lastest Raspberry Pi (3 Model B+) is a 64-bit processor. The Operating system used in this solution is not compatible with 64-bit. It is aimed around an ARM processor.
+
+Example Raspberry Pi kit from Amazon:
+https://www.amazon.co.uk/Raspberry-Pi-Official-Desktop-Starter/dp/B01CI58722/
+
+Example Grove Pi kit from Amazon:
+https://www.amazon.co.uk/Seeedstudio-Raspberry-certified-Temperature-UItrasonic/dp/B01AFKPQOY/
+
+
+# -----------------
+# ITEM 2
+# Setting up the Raspberry Pi Operation System
+# https://www.raspberrypi.org/downloads/noobs/ 
+# -----------------
+
+The NOOBS (New Out Of The Box Software) can be obtained directly from Raspberry Pi website. 
+I suggest grabbing NOOBS, not NOOBS LITE. There are simple setup instructions on the site.
+When you first boot your Raspberry Pi with this, you're asked which OS you want, I chose Raspbian
+
+
+# after installing the OS, perform the updates
+# from a Terminal
+sudo apt-get update
+sudo apt-get upgrade
+
+
+# -----------------
+# ITEM 3
+# Setting up the Grove PI
+# https://www.dexterindustries.com/GrovePi/get-started-with-the-grovepi/ 
+# NOTE: this takes a while to complete. From memory 1-2 hours
+# -----------------
+
+# from a Terminal prompt
+sudo curl -kL dexterindustries.com/update_grovepi | bash 
+sudo reboot 
+
+# Run from Python
+# this can take a while, around an hour
+/home/pi/Dexter/GrovePi/Software/Python/setup.py 
+
+
+# -----------------
+# ITEM 4
+# Setting up the camera
+# https://thepihut.com/blogs/raspberry-pi-tutorials/16021420-how-to-install-use-the-raspberry-pi-camera
+# -----------------
+
+
+# -----------------
+# ITEM 5
+# Setting up Azure for SQL Database & storage
+# http://mdupont.com/Blog/Raspberry-Pi/azure-python3.html 
+# -----------------
+
+NOTE: if you get a prompt for dependent packages, follow the instructions & run "sudo apt --fix-broken intall"
+
+sudo apt-get install python-pyodbc python-dev python3-dev python3-setuptools python3-pip 
+sudo apt-get install libffi-dev 
+sudo reboot
+sudo pip3 install azure 
+sudo apt-get install unixodbc unixodbc-dev freetds-dev freetds-bin tdsodbc 
+
+# edit the config 
+sudo nano /etc/freetds/freetds.conf 
+
+# put this text in the file
+[lightningtalk] 
+        host=yourdatabase.database.windows.net 
+        port=1433 
+        tds version = 8.0 
+
+# find the driver 
+sudo find / -name libtdsodbc.so 
+sudo find / -name libtdsS.so 
+(should be /usr/lib/arm-linux-gnueabihf/odbc/libtdsodbc.so) 
+
+# edit ODBCinst.ini 
+sudo nano /etc/odbcinst.ini 
+
+# put this text in the file
+[FreeTDS] 
+Description = TDS Driver (Sybase/MS SQL) 
+Driver = /usr/lib/arm-linux-gnueabihf/odbc/libtdsodbc.so 
+Setup = /usr/lib/arm-linux-gnueabihf/odbc/libtdsS.so 
+CPTimeout = 
+
+# ----------------- 
+# ITEM 6
+# Setting up Open CV (for drawing the rectangles)
+# NOTE: this one is about 2-3 hours effort!
+# ----------------- 
+
+http://life2coding.com/install-opencv-3-4-0-python-3-raspberry-pi-3
+
+# ----------------- 
+# ITEM 7
+# Setting up GIT and cloning my repsoitory
+# ----------------- 
+I cloned verything to /pi/GIT. 
+- First create the folder called GIT
+- In a terminal change to the GIT folder, "cd GIT"
+- git clone https://github.com/datalineo/RaspberryPiFaceAPI.git
+
+- make sure you update the config file to match your settings
+
