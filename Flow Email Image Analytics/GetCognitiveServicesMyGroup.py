@@ -3,7 +3,7 @@ import json
 import configparser
 
 person_group_id = 'mygroup'
-config_file = r'C:\TEMP\config_faceapi.ini'
+config_file = r'C:\GIT\config\config_faceapi.ini'
 config=configparser.ConfigParser()
 config.read(config_file)
 cognitive_services_key = config.get('faceapi','cognitive_services_key')

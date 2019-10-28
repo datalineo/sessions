@@ -1,5 +1,5 @@
 ﻿#Login-PowerBI
-$config = Get-Content -Path "C:\Users\BenWatt\OneDrive - datalineo.com\Sessions & Events\Power Platform WT\Config.json" -Raw | ConvertFrom-Json
+$config = Get-Content -Path "C:\GIT\config\config_flow_image_analytics.json" -Raw | ConvertFrom-Json
 
 # ------------
 # Clear Push Dataset

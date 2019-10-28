@@ -1,0 +1,16 @@
+{
+"powerbi" : {
+	"datasetid": "[datsaetid]",
+	"groupid": "[groupid]",
+	"tablename": "RealTimeData" },
+"sqlserver": {
+	"servername": "[server].database.windows.net",
+	"database": "[database]",
+	"username": "[username]",
+	"password": "[password]" },
+"storage": {
+	"account": "[storage]",
+	"key": "[key]",
+	"container1": "[faceaddcontainer]",
+	"container2": "[addmecontainer]" }
+}
