@@ -79,7 +79,7 @@ def json_print(json_text):
     print(json.dumps(json.loads(json_text),indent=2))
     
 #person_delete(person_group_id, "81acaf8f-c24d-49a5-b89f-7d081a3c69eb")
-#person_delete(person_group_id, "37b085ff-a28d-4d45-a16f-7361276be876")
+person_delete(person_group_id, "c7f09d32-6ac8-4aee-bb54-73c7c77bc0e2")
 
 group_list = person_group_get(person_group_id)
 json_print(group_list)
