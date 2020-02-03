@@ -1,5 +1,5 @@
 ﻿Login-PowerBI
-$config = Get-Content -Path "C:\GIT\config\config_flow_image_analytics.json" -Raw | ConvertFrom-Json
+$config = Get-Content -Path "C:\GIT\datalineo\config\config_flow_image_analytics.json" -Raw | ConvertFrom-Json
 
 # ------------
 # grab config details
