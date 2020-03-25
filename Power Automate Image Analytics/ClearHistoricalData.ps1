@@ -1,9 +1,20 @@
-﻿Login-PowerBI
-$config = Get-Content -Path "C:\GIT\datalineo\config\config_flow_image_analytics.json" -Raw | ConvertFrom-Json
+﻿# --------------------------
+# Modules needed
+# --------------------------
+#Install-Module -Name MicrosoftPowerBIMgmt -Force
+#Install-Module -Name sqlserver -Force
+#Install-Module -Name Azure -Force
+
+# --------------------------
+# Power BI Login
+# --------------------------
+#Login-PowerBI
+
 
 # ------------
 # grab config details
 # ------------
+$config = Get-Content -Path "C:\GIT\datalineo\config\config_flow_image_analytics.json" -Raw | ConvertFrom-Json
 $datasetId = $config.powerbi.datasetid
 $groupId = $config.powerbi.groupid
 $tableName = $config.powerbi.tablename
