@@ -14,7 +14,7 @@ import os, uuid, sys
 from azure.storage.blob import BlockBlobService, PublicAccess, ContentSettings
 import uuid
 import cv2
-from configparser import SafeConfigParser
+from configparser import ConfigParser
 
 # -------------------------------------------
 # Tell the raspberry pi where the sensor is attached 
@@ -34,7 +34,7 @@ boxcolour = (255,255,255)
 # get config values
 # -------------------------------------------
 config_file = r'/home/pi/config_faceapi.ini'
-config=SafeConfigParser()
+config=ConfigParser()
 config.read(config_file)
 camera_image_folder = config.get('image_processor','camera_image_folder')
 detect_image_folder = config.get('image_processor','detect_image_folder')
