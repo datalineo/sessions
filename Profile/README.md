@@ -12,3 +12,10 @@ Community Contributions include being committee member of The Dublin Power BI Us
 - [Dublin Power BI User Group](https://www.meetup.com/dublinpug)
 - [Data Ceili](https://www.dataceili.io)
 - [Microsoft MVP page](https://mvp.microsoft.com/en-us/PublicProfile/5003321)
+
+## Here's some profile pics
+- https://github.com/datalineo/sessions/blob/master/Profile/ben_watt_profile_a.jpg
+- https://github.com/datalineo/sessions/blob/master/Profile/ben_watt_profile_a.jpg
+
+![Profile Pic A](/Profile/ben_watt_profile_a.jpg)
+![Profile Pic B](/Profile/ben_watt_profile_b.jpg)
