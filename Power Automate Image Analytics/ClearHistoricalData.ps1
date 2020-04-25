@@ -9,11 +9,12 @@
 # Power BI Login
 # --------------------------
 #Login-PowerBI
-
+cls
 
 # ------------
 # grab config details
 # ------------
+Write-Host("Setting configurables...")
 $config = Get-Content -Path "C:\GIT\datalineo\config\config_flow_image_analytics.json" -Raw | ConvertFrom-Json
 $datasetId = $config.powerbi.datasetid
 $groupId = $config.powerbi.groupid
@@ -30,18 +31,26 @@ $ContainerName2 = $config.storage.container2
 # ------------
 # Clear Push Dataset
 # ------------
+Write-Host("Power BI Push dataset clearing...")
 $URL = "https://api.powerbi.com/v1.0/myorg/groups/"+$groupId+"/datasets/"+$datasetId+"/tables/"+$tableName+"/rows"
 $result = Invoke-PowerBIRestMethod -Url $URL -Method Delete
 
 # ------------
 # Empty SQL Tables
 # ------------
+Write-Host("SQL Tables truncating...")
 $query = "truncate table LoadImage;truncate table LoadImageDetect;truncate table LoadImageIdentify;truncate table LoadImageIdentifyPerson;truncate table LoadImageVision;"
 Invoke-Sqlcmd -ServerInstance $servername -Username $username -Password $password -Database $database -Query $query
 
 # ------------
-# Empty SQL Tables
+# Deleted attachment from Azure Blob
 # ------------
+Write-Host("SQL Tables truncating...")
 $ctx = New-AzureStorageContext -StorageAccountName $StorageAccountName -StorageAccountKey $StorageAccountKey
 Get-AzureStorageBlob -Container $ContainerName1 -Context $ctx | Remove-AzureStorageBlob 
 Get-AzureStorageBlob -Container $ContainerName2 -Context $ctx | Remove-AzureStorageBlob 
+
+# ------------
+# Finito
+# ------------
+Write-Host("Done")
