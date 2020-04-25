@@ -45,7 +45,7 @@ Invoke-Sqlcmd -ServerInstance $servername -Username $username -Password $passwor
 # ------------
 # Deleted attachment from Azure Blob
 # ------------
-Write-Host("SQL Tables truncating...")
+Write-Host("Azure Blob emptying...")
 $ctx = New-AzureStorageContext -StorageAccountName $StorageAccountName -StorageAccountKey $StorageAccountKey
 Get-AzureStorageBlob -Container $ContainerName1 -Context $ctx | Remove-AzureStorageBlob 
 Get-AzureStorageBlob -Container $ContainerName2 -Context $ctx | Remove-AzureStorageBlob 
