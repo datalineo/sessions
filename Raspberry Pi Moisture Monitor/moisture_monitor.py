@@ -15,7 +15,7 @@ endpoint = config.get('openweathermap','endpoint')
 api_key = config.get('openweathermap','api_key')
 location = config.get('openweathermap','location')
 units = config.get('openweathermap','units')
-iot_connection_string = 'HostName=moisturemonitor.azure-devices.net;DeviceId=NestaOfficeRaspberryPi;SharedAccessKey=ncJNCFhKz7t18OhKNLW8Esh9YsglUuEfPy1xpOTNiqI='
+iot_connection_string = config.get('azure-iot','iot-connection-string')
 iot_text = '{"moisturecc": {moisture}}'
 MSG_TXT = '{{"moisture": {moisture},"weather":{humidity}}}'
 
