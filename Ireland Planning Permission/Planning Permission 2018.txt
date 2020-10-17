@@ -1,871 +1,871 @@
 "Planning Permissions Granted for New Houses and Apartments by Type of"
 "Dwelling, Region and County, statistical indicator and Quarter"
 
-" "," "," ","2018Q1","2018Q2","2018Q3","2018Q4","2019Q1","2019Q2","2019Q3","2019Q4"
+" "," "," ","2018Q1","2018Q2","2018Q3","2018Q4","2019Q1","2019Q2","2019Q3","2019Q4","2020Q1","2020Q2"
 "Houses"
 " ","State"
-" "," ","Planning Permissions Granted (Number)",1537,1464,1593,1509,1614,1556,1683,1415
-" "," ","Units for which Permission Granted (Number)",5758,4951,4879,4376,4901,4936,4934,4899
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",886,794,777,708,786,781,793,746
-" "," ","Average Floor Area per Unit (Sq Metres)",153.9,160.4,159.3,161.8,160.4,158.2,160.6,152.2
+" "," ","Planning Permissions Granted (Number)",1537,1464,1593,1509,1614,1556,1683,1415,1527,761
+" "," ","Units for which Permission Granted (Number)",5758,4951,4879,4376,4901,4936,4934,4899,5091,3063
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",886,794,777,708,786,781,793,746,776,440
+" "," ","Average Floor Area per Unit (Sq Metres)",153.9,160.4,159.3,161.8,160.4,158.2,160.6,152.2,152.4,143.8
 " ","Northern and Western"
-" "," ","Planning Permissions Granted (Number)",377,407,448,445,456,401,461,403
-" "," ","Units for which Permission Granted (Number)",601,692,683,779,782,535,1008,717
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",122,139,137,149,150,121,179,133
-" "," ","Average Floor Area per Unit (Sq Metres)",203.6,200.3,200.0,191.4,192.2,226.8,177.9,185.4
+" "," ","Planning Permissions Granted (Number)",377,407,448,445,456,401,461,403,448,150
+" "," ","Units for which Permission Granted (Number)",601,692,683,779,782,535,1008,717,778,330
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",122,139,137,149,150,121,179,133,152,54
+" "," ","Average Floor Area per Unit (Sq Metres)",203.6,200.3,200.0,191.4,192.2,226.8,177.9,185.4,195.7,164.0
 " ","Border"
-" "," ","Planning Permissions Granted (Number)",174,186,188,211,199,177,229,200
-" "," ","Units for which Permission Granted (Number)",231,242,277,329,449,290,426,332
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",49,52,57,64,78,64,77,63
-" "," ","Average Floor Area per Unit (Sq Metres)",211.9,216.9,206.0,195.6,172.9,219.8,180.4,189.5
+" "," ","Planning Permissions Granted (Number)",174,186,188,211,199,177,229,200,200,76
+" "," ","Units for which Permission Granted (Number)",231,242,277,329,449,290,426,332,343,223
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",49,52,57,64,78,64,77,63,65,33
+" "," ","Average Floor Area per Unit (Sq Metres)",211.9,216.9,206.0,195.6,172.9,219.8,180.4,189.5,188.2,146.3
 " ","Leitrim"
-" "," ","Planning Permissions Granted (Number)",1,4,7,4,5,12,11,10
-" "," ","Units for which Permission Granted (Number)",1,4,7,4,5,18,13,10
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,1,2,1,1,4,3,2
-" "," ","Average Floor Area per Unit (Sq Metres)",351.0,270.0,219.3,231.3,254.8,198.7,231.8,221.0
+" "," ","Planning Permissions Granted (Number)",1,4,7,4,5,12,11,10,15,3
+" "," ","Units for which Permission Granted (Number)",1,4,7,4,5,18,13,10,15,3
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,1,2,1,1,4,3,2,4,1
+" "," ","Average Floor Area per Unit (Sq Metres)",351.0,270.0,219.3,231.3,254.8,198.7,231.8,221.0,255.1,233.3
 " ","Sligo"
-" "," ","Planning Permissions Granted (Number)",26,24,25,26,23,12,27,29
-" "," ","Units for which Permission Granted (Number)",26,29,31,43,33,19,100,29
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,7,7,8,6,3,15,6
-" "," ","Average Floor Area per Unit (Sq Metres)",241.7,235.4,225.4,193.5,186.2,146.8,152.7,212.1
+" "," ","Planning Permissions Granted (Number)",26,24,25,26,23,12,27,29,25,5
+" "," ","Units for which Permission Granted (Number)",26,29,31,43,33,19,100,29,114,10
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,7,7,8,6,3,15,6,17,2
+" "," ","Average Floor Area per Unit (Sq Metres)",241.7,235.4,225.4,193.5,186.2,146.8,152.7,212.1,147.8,159.0
 " ","Cavan"
-" "," ","Planning Permissions Granted (Number)",23,30,29,25,34,28,29,21
-" "," ","Units for which Permission Granted (Number)",25,30,102,100,117,107,29,52
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,8,17,13,18,25,8,9
-" "," ","Average Floor Area per Unit (Sq Metres)",251.3,265.3,165.2,134.3,155.6,230.2,258.8,171.4
+" "," ","Planning Permissions Granted (Number)",23,30,29,25,34,28,29,21,25,5
+" "," ","Units for which Permission Granted (Number)",25,30,102,100,117,107,29,52,26,5
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,8,17,13,18,25,8,9,6,1
+" "," ","Average Floor Area per Unit (Sq Metres)",251.3,265.3,165.2,134.3,155.6,230.2,258.8,171.4,236.2,236.2
 " ","Donegal"
-" "," ","Planning Permissions Granted (Number)",74,76,76,96,96,85,118,87
-" "," ","Units for which Permission Granted (Number)",76,83,86,114,126,99,237,148
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",18,20,19,25,25,22,41,29
-" "," ","Average Floor Area per Unit (Sq Metres)",239.1,242.0,222.5,220.8,201.2,223.5,170.9,196.1
+" "," ","Planning Permissions Granted (Number)",74,76,76,96,96,85,118,87,98,36
+" "," ","Units for which Permission Granted (Number)",76,83,86,114,126,99,237,148,145,138
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",18,20,19,25,25,22,41,29,29,19
+" "," ","Average Floor Area per Unit (Sq Metres)",239.1,242.0,222.5,220.8,201.2,223.5,170.9,196.1,196.7,135.3
 " ","Monaghan"
-" "," ","Planning Permissions Granted (Number)",50,52,51,60,41,40,44,53
-" "," ","Units for which Permission Granted (Number)",103,96,51,68,168,47,47,93
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",18,17,13,17,27,11,11,17
-" "," ","Average Floor Area per Unit (Sq Metres)",173.4,172.3,246.2,242.9,158.8,225.9,224.9,178.7
+" "," ","Planning Permissions Granted (Number)",50,52,51,60,41,40,44,53,37,27
+" "," ","Units for which Permission Granted (Number)",103,96,51,68,168,47,47,93,43,67
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",18,17,13,17,27,11,11,17,9,10
+" "," ","Average Floor Area per Unit (Sq Metres)",173.4,172.3,246.2,242.9,158.8,225.9,224.9,178.7,214.3,156.6
 " ","West"
-" "," ","Planning Permissions Granted (Number)",203,221,260,234,257,224,232,203
-" "," ","Units for which Permission Granted (Number)",370,450,406,450,333,245,582,385
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",73,86,80,85,73,58,102,70
-" "," ","Average Floor Area per Unit (Sq Metres)",198.4,191.4,195.9,188.3,218.3,235.2,176.0,181.8
+" "," ","Planning Permissions Granted (Number)",203,221,260,234,257,224,232,203,248,74
+" "," ","Units for which Permission Granted (Number)",370,450,406,450,333,245,582,385,435,107
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",73,86,80,85,73,58,102,70,88,21
+" "," ","Average Floor Area per Unit (Sq Metres)",198.4,191.4,195.9,188.3,218.3,235.2,176.0,181.8,201.7,200.8
 " ","Galway"
-" "," ","Planning Permissions Granted (Number)",116,106,133,127,149,115,130,105
-" "," ","Units for which Permission Granted (Number)",256,257,229,335,168,126,337,124
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",49,46,44,58,40,29,61,28
-" "," ","Average Floor Area per Unit (Sq Metres)",189.9,178.1,192.6,173.6,237.3,229.2,182.0,223.0
+" "," ","Planning Permissions Granted (Number)",116,106,133,127,149,115,130,105,136,42
+" "," ","Units for which Permission Granted (Number)",256,257,229,335,168,126,337,124,234,50
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",49,46,44,58,40,29,61,28,48,11
+" "," ","Average Floor Area per Unit (Sq Metres)",189.9,178.1,192.6,173.6,237.3,229.2,182.0,223.0,204.0,217.6
 " ","Galway City"
-" "," ","Planning Permissions Granted (Number)",8,16,7,6,9,7,4,10
-" "," ","Units for which Permission Granted (Number)",30,84,8,9,39,16,98,151
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,15,2,1,5,4,11,19
-" "," ","Average Floor Area per Unit (Sq Metres)",150.4,174.3,205.5,163.2,135.1,231.9,108.6,128.3
+" "," ","Planning Permissions Granted (Number)",8,16,7,6,9,7,4,10,10,3
+" "," ","Units for which Permission Granted (Number)",30,84,8,9,39,16,98,151,12,25
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,15,2,1,5,4,11,19,3,3
+" "," ","Average Floor Area per Unit (Sq Metres)",150.4,174.3,205.5,163.2,135.1,231.9,108.6,128.3,249.8,110.4
 " ","Mayo"
-" "," ","Planning Permissions Granted (Number)",56,73,88,51,70,72,65,64
-" "," ","Units for which Permission Granted (Number)",56,75,105,53,97,73,112,71
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",14,17,23,12,20,18,21,16
-" "," ","Average Floor Area per Unit (Sq Metres)",247.0,223.6,217.3,221.6,207.8,240.0,191.8,218.7
+" "," ","Planning Permissions Granted (Number)",56,73,88,51,70,72,65,64,80,25
+" "," ","Units for which Permission Granted (Number)",56,75,105,53,97,73,112,71,101,28
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",14,17,23,12,20,18,21,16,21,7
+" "," ","Average Floor Area per Unit (Sq Metres)",247.0,223.6,217.3,221.6,207.8,240.0,191.8,218.7,209.5,241.7
 " ","Roscommon"
-" "," ","Planning Permissions Granted (Number)",23,26,32,50,29,30,33,24
-" "," ","Units for which Permission Granted (Number)",28,34,64,53,29,30,35,39
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,9,11,13,7,8,9,7
-" "," ","Average Floor Area per Unit (Sq Metres)",231.4,262.8,171.1,251.7,254.9,250.4,257.0,191.1
+" "," ","Planning Permissions Granted (Number)",23,26,32,50,29,30,33,24,22,4
+" "," ","Units for which Permission Granted (Number)",28,34,64,53,29,30,35,39,88,4
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,9,11,13,7,8,9,7,16,1
+" "," ","Average Floor Area per Unit (Sq Metres)",231.4,262.8,171.1,251.7,254.9,250.4,257.0,191.1,179.9,269.8
 " ","Southern"
-" "," ","Planning Permissions Granted (Number)",628,598,634,592,657,648,709,570
-" "," ","Units for which Permission Granted (Number)",1917,2232,1431,1727,2171,2323,2070,1502
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",299,341,246,280,338,357,333,243
-" "," ","Average Floor Area per Unit (Sq Metres)",156.1,152.6,171.6,162.1,155.5,153.7,161.1,161.9
+" "," ","Planning Permissions Granted (Number)",628,598,634,592,657,648,709,570,599,308
+" "," ","Units for which Permission Granted (Number)",1917,2232,1431,1727,2171,2323,2070,1502,1288,1472
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",299,341,246,280,338,357,333,243,213,202
+" "," ","Average Floor Area per Unit (Sq Metres)",156.1,152.6,171.6,162.1,155.5,153.7,161.1,161.9,165.5,137.1
 " ","Mid-West"
-" "," ","Planning Permissions Granted (Number)",194,170,198,159,197,177,185,131
-" "," ","Units for which Permission Granted (Number)",316,415,337,450,412,357,379,363
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",59,72,65,73,71,62,69,55
-" "," ","Average Floor Area per Unit (Sq Metres)",186.0,173.7,193.7,161.3,172.9,173.5,181.2,150.2
+" "," ","Planning Permissions Granted (Number)",194,170,198,159,197,177,185,131,156,76
+" "," ","Units for which Permission Granted (Number)",316,415,337,450,412,357,379,363,310,194
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",59,72,65,73,71,62,69,55,51,30
+" "," ","Average Floor Area per Unit (Sq Metres)",186.0,173.7,193.7,161.3,172.9,173.5,181.2,150.2,164.4,156.8
 " ","Clare"
-" "," ","Planning Permissions Granted (Number)",73,63,67,51,67,68,56,41
-" "," ","Units for which Permission Granted (Number)",80,146,142,60,114,78,78,173
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",18,25,25,14,24,17,19,23
-" "," ","Average Floor Area per Unit (Sq Metres)",228.0,174.2,174.9,234.5,208.9,219.4,242.6,133.5
+" "," ","Planning Permissions Granted (Number)",73,63,67,51,67,68,56,41,33,19
+" "," ","Units for which Permission Granted (Number)",80,146,142,60,114,78,78,173,38,64
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",18,25,25,14,24,17,19,23,8,10
+" "," ","Average Floor Area per Unit (Sq Metres)",228.0,174.2,174.9,234.5,208.9,219.4,242.6,133.5,213.4,161.6
 " ","Limerick"
-" "," ","Planning Permissions Granted (Number)",71,59,68,54,75,61,69,49
-" "," ","Units for which Permission Granted (Number)",166,213,105,315,213,185,186,97
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",27,34,23,44,31,28,29,15
-" "," ","Average Floor Area per Unit (Sq Metres)",160.6,161.8,220.3,140.7,147.3,153.1,157.0,152.8
+" "," ","Planning Permissions Granted (Number)",71,59,68,54,75,61,69,49,80,40
+" "," ","Units for which Permission Granted (Number)",166,213,105,315,213,185,186,97,109,51
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",27,34,23,44,31,28,29,15,21,10
+" "," ","Average Floor Area per Unit (Sq Metres)",160.6,161.8,220.3,140.7,147.3,153.1,157.0,152.8,190.8,188.7
 " ","Tipperary"
-" "," ","Planning Permissions Granted (Number)",50,48,63,54,55,48,60,41
-" "," ","Units for which Permission Granted (Number)",70,56,90,75,85,94,115,93
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",14,12,17,14,16,17,21,17
-" "," ","Average Floor Area per Unit (Sq Metres)",198.3,217.3,192.2,189.4,188.6,175.8,178.6,178.5
+" "," ","Planning Permissions Granted (Number)",50,48,63,54,55,48,60,41,43,17
+" "," ","Units for which Permission Granted (Number)",70,56,90,75,85,94,115,93,163,79
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",14,12,17,14,16,17,21,17,22,10
+" "," ","Average Floor Area per Unit (Sq Metres)",198.3,217.3,192.2,189.4,188.6,175.8,178.6,178.5,135.3,132.2
 " ","South-East"
-" "," ","Planning Permissions Granted (Number)",189,159,189,180,183,204,243,178
-" "," ","Units for which Permission Granted (Number)",421,445,430,745,634,1164,983,324
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",73,68,74,112,98,167,152,62
-" "," ","Average Floor Area per Unit (Sq Metres)",172.6,152.5,173.2,150.3,154.5,143.4,154.1,192.0
+" "," ","Planning Permissions Granted (Number)",189,159,189,180,183,204,243,178,201,117
+" "," ","Units for which Permission Granted (Number)",421,445,430,745,634,1164,983,324,356,268
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",73,68,74,112,98,167,152,62,63,42
+" "," ","Average Floor Area per Unit (Sq Metres)",172.6,152.5,173.2,150.3,154.5,143.4,154.1,192.0,177.5,155.5
 " ","Carlow"
-" "," ","Planning Permissions Granted (Number)",18,9,18,19,22,30,26,19
-" "," ","Units for which Permission Granted (Number)",18,12,32,37,30,49,115,27
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,3,6,7,6,10,14,5
-" "," ","Average Floor Area per Unit (Sq Metres)",271.8,285.4,190.7,177.9,188.8,198.2,119.3,192.3
+" "," ","Planning Permissions Granted (Number)",18,9,18,19,22,30,26,19,23,12
+" "," ","Units for which Permission Granted (Number)",18,12,32,37,30,49,115,27,66,64
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,3,6,7,6,10,14,5,8,7
+" "," ","Average Floor Area per Unit (Sq Metres)",271.8,285.4,190.7,177.9,188.8,198.2,119.3,192.3,121.8,113.1
 " ","Kilkenny"
-" "," ","Planning Permissions Granted (Number)",43,42,43,45,47,48,65,50
-" "," ","Units for which Permission Granted (Number)",64,63,103,147,163,101,137,117
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",13,13,18,23,26,18,24,23
-" "," ","Average Floor Area per Unit (Sq Metres)",204.7,211.0,170.3,158.4,159.9,175.6,172.5,198.6
+" "," ","Planning Permissions Granted (Number)",43,42,43,45,47,48,65,50,55,41
+" "," ","Units for which Permission Granted (Number)",64,63,103,147,163,101,137,117,67,94
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",13,13,18,23,26,18,24,23,17,15
+" "," ","Average Floor Area per Unit (Sq Metres)",204.7,211.0,170.3,158.4,159.9,175.6,172.5,198.6,255.7,164.1
 " ","Wexford"
-" "," ","Planning Permissions Granted (Number)",83,66,84,81,87,83,90,65
-" "," ","Units for which Permission Granted (Number)",165,291,149,263,398,694,242,88
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",30,38,29,38,58,96,38,19
-" "," ","Average Floor Area per Unit (Sq Metres)",178.8,131.4,191.7,142.8,145.3,139.0,158.1,216.7
+" "," ","Planning Permissions Granted (Number)",83,66,84,81,87,83,90,65,73,36
+" "," ","Units for which Permission Granted (Number)",165,291,149,263,398,694,242,88,168,77
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",30,38,29,38,58,96,38,19,27,13
+" "," ","Average Floor Area per Unit (Sq Metres)",178.8,131.4,191.7,142.8,145.3,139.0,158.1,216.7,160.5,163.1
 " ","Waterford"
-" "," ","Planning Permissions Granted (Number)",45,42,44,35,27,43,62,44
-" "," ","Units for which Permission Granted (Number)",174,79,146,298,43,320,489,92
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",25,13,22,45,8,43,76,15
-" "," ","Average Floor Area per Unit (Sq Metres)",144.6,163.4,152.7,149.6,195.8,134.3,155.2,160.1
+" "," ","Planning Permissions Granted (Number)",45,42,44,35,27,43,62,44,50,28
+" "," ","Units for which Permission Granted (Number)",174,79,146,298,43,320,489,92,55,33
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",25,13,22,45,8,43,76,15,11,6
+" "," ","Average Floor Area per Unit (Sq Metres)",144.6,163.4,152.7,149.6,195.8,134.3,155.2,160.1,201.0,195.6
 " ","South-West"
-" "," ","Planning Permissions Granted (Number)",245,269,247,253,277,267,281,261
-" "," ","Units for which Permission Granted (Number)",1180,1372,664,532,1125,802,708,815
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",168,201,106,95,169,128,113,126
-" "," ","Average Floor Area per Unit (Sq Metres)",142.1,146.3,159.4,179.3,149.8,160.0,160.0,155.2
+" "," ","Planning Permissions Granted (Number)",245,269,247,253,277,267,281,261,242,115
+" "," ","Units for which Permission Granted (Number)",1180,1372,664,532,1125,802,708,815,622,1010
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",168,201,106,95,169,128,113,126,99,130
+" "," ","Average Floor Area per Unit (Sq Metres)",142.1,146.3,159.4,179.3,149.8,160.0,160.0,155.2,159.1,128.4
 " ","Cork"
-" "," ","Planning Permissions Granted (Number)",14,201,184,181,205,12,14,9
-" "," ","Units for which Permission Granted (Number)",33,1062,571,417,906,24,37,41
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",7,153,86,72,134,5,4,5
-" "," ","Average Floor Area per Unit (Sq Metres)",216.1,144.1,150.6,171.9,147.4,192.2,107.2,130.5
+" "," ","Planning Permissions Granted (Number)",14,201,184,181,205,198,189,184,175,79
+" "," ","Units for which Permission Granted (Number)",33,1062,571,417,906,680,592,706,520,421
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",7,153,86,72,134,108,91,105,82,57
+" "," ","Average Floor Area per Unit (Sq Metres)",216.1,144.1,150.6,171.9,147.4,158.9,154.4,149.3,158.0,134.9
 " ","Cork City"
-" "," ","Planning Permissions Granted (Number)",177,22,8,9,7,198,189,184
-" "," ","Units for which Permission Granted (Number)",1083,159,35,40,44,680,592,706
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",146,24,7,7,7,108,91,105
-" "," ","Average Floor Area per Unit (Sq Metres)",134.8,152.1,195.1,170.3,153.8,158.9,154.4,149.3
+" "," ","Planning Permissions Granted (Number)",177,22,8,9,7,12,14,9,15,9
+" "," ","Units for which Permission Granted (Number)",1083,159,35,40,44,24,37,41,20,556
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",146,24,7,7,7,5,4,5,3,65
+" "," ","Average Floor Area per Unit (Sq Metres)",134.8,152.1,195.1,170.3,153.8,192.2,107.2,130.5,136.3,116.6
 " ","Kerry"
-" "," ","Planning Permissions Granted (Number)",54,46,55,63,65,57,78,68
-" "," ","Units for which Permission Granted (Number)",64,151,58,75,175,98,79,68
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",15,24,13,17,28,16,18,16
-" "," ","Average Floor Area per Unit (Sq Metres)",227.7,155.9,224.4,225.7,161.2,159.8,226.5,231.3
+" "," ","Planning Permissions Granted (Number)",54,46,55,63,65,57,78,68,52,27
+" "," ","Units for which Permission Granted (Number)",64,151,58,75,175,98,79,68,82,33
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",15,24,13,17,28,16,18,16,14,8
+" "," ","Average Floor Area per Unit (Sq Metres)",227.7,155.9,224.4,225.7,161.2,159.8,226.5,231.3,171.7,243.3
 " ","Eastern and Midland"
-" "," ","Planning Permissions Granted (Number)",532,459,511,472,501,507,513,442
-" "," ","Units for which Permission Granted (Number)",3240,2027,2765,1870,1948,2078,1856,2680
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",465,315,395,279,298,302,280,370
-" "," ","Average Floor Area per Unit (Sq Metres)",143.5,155.2,142.9,149.1,153.1,145.5,150.8,137.9
+" "," ","Planning Permissions Granted (Number)",532,459,511,472,501,507,513,442,480,303
+" "," ","Units for which Permission Granted (Number)",3240,2027,2765,1870,1948,2078,1856,2680,3025,1261
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",465,315,395,279,298,302,280,370,411,185
+" "," ","Average Floor Area per Unit (Sq Metres)",143.5,155.2,142.9,149.1,153.1,145.5,150.8,137.9,135.7,146.4
 " ","Dublin"
-" "," ","Planning Permissions Granted (Number)",148,122,158,131,130,124,126,121
-" "," ","Units for which Permission Granted (Number)",1410,461,1314,563,407,334,411,1157
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",197,66,179,86,62,52,61,149
-" "," ","Average Floor Area per Unit (Sq Metres)",139.5,143.2,136.0,153.5,153.5,156.0,147.7,128.6
+" "," ","Planning Permissions Granted (Number)",148,122,158,131,130,124,126,121,131,52
+" "," ","Units for which Permission Granted (Number)",1410,461,1314,563,407,334,411,1157,708,345
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",197,66,179,86,62,52,61,149,97,43
+" "," ","Average Floor Area per Unit (Sq Metres)",139.5,143.2,136.0,153.5,153.5,156.0,147.7,128.6,136.3,124.5
 " ","Dublin City"
-" "," ","Planning Permissions Granted (Number)",46,33,58,47,41,48,42,46
-" "," ","Units for which Permission Granted (Number)",118,65,120,120,128,92,66,82
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",17,11,18,21,16,14,9,13
-" "," ","Average Floor Area per Unit (Sq Metres)",148.1,166.3,148.3,178.7,125.5,156.9,134.0,161.9
+" "," ","Planning Permissions Granted (Number)",46,33,58,47,41,48,42,46,39,20
+" "," ","Units for which Permission Granted (Number)",118,65,120,120,128,92,66,82,60,30
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",17,11,18,21,16,14,9,13,8,5
+" "," ","Average Floor Area per Unit (Sq Metres)",148.1,166.3,148.3,178.7,125.5,156.9,134.0,161.9,139.7,154.4
 " ","South Dublin"
-" "," ","Planning Permissions Granted (Number)",25,22,26,16,17,12,23,21
-" "," ","Units for which Permission Granted (Number)",644,162,303,260,18,63,50,881
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",85,20,34,33,3,8,8,104
-" "," ","Average Floor Area per Unit (Sq Metres)",131.5,124.7,110.6,125.4,149.9,129.6,164.3,117.5
+" "," ","Planning Permissions Granted (Number)",25,22,26,16,17,12,23,21,24,11
+" "," ","Units for which Permission Granted (Number)",644,162,303,260,18,63,50,881,76,101
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",85,20,34,33,3,8,8,104,9,10
+" "," ","Average Floor Area per Unit (Sq Metres)",131.5,124.7,110.6,125.4,149.9,129.6,164.3,117.5,123.9,94.5
 " ","Fingal"
-" "," ","Planning Permissions Granted (Number)",42,42,52,41,32,20,27,29
-" "," ","Units for which Permission Granted (Number)",529,172,423,47,106,37,156,125
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",74,25,55,10,17,5,22,20
-" "," ","Average Floor Area per Unit (Sq Metres)",140.7,143.9,130.7,204.2,161.1,140.4,141.2,156.6
+" "," ","Planning Permissions Granted (Number)",42,42,52,41,32,20,27,29,33,10
+" "," ","Units for which Permission Granted (Number)",529,172,423,47,106,37,156,125,324,141
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",74,25,55,10,17,5,22,20,42,18
+" "," ","Average Floor Area per Unit (Sq Metres)",140.7,143.9,130.7,204.2,161.1,140.4,141.2,156.6,130.1,124.3
 " ","Dun Laoghaire - Rathdown"
-" "," ","Planning Permissions Granted (Number)",35,25,22,27,40,44,34,25
-" "," ","Units for which Permission Granted (Number)",119,62,468,136,155,142,139,69
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",20,10,72,23,27,24,22,12
-" "," ","Average Floor Area per Unit (Sq Metres)",168.7,165.2,153.9,167.4,171.9,171.1,155.5,179.9
+" "," ","Planning Permissions Granted (Number)",35,25,22,27,40,44,34,25,35,11
+" "," ","Units for which Permission Granted (Number)",119,62,468,136,155,142,139,69,248,73
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",20,10,72,23,27,24,22,12,37,11
+" "," ","Average Floor Area per Unit (Sq Metres)",168.7,165.2,153.9,167.4,171.9,171.1,155.5,179.9,147.6,154.0
 " ","Mid-East"
-" "," ","Planning Permissions Granted (Number)",244,212,247,227,220,227,252,212
-" "," ","Units for which Permission Granted (Number)",1534,1098,1228,960,1183,1416,934,1207
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",216,175,175,138,176,190,141,172
-" "," ","Average Floor Area per Unit (Sq Metres)",141.0,159.6,142.9,144.0,148.6,134.4,150.9,142.5
+" "," ","Planning Permissions Granted (Number)",244,212,247,227,220,227,252,212,232,153
+" "," ","Units for which Permission Granted (Number)",1534,1098,1228,960,1183,1416,934,1207,1919,721
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",216,175,175,138,176,190,141,172,251,108
+" "," ","Average Floor Area per Unit (Sq Metres)",141.0,159.6,142.9,144.0,148.6,134.4,150.9,142.5,131.0,149.8
 " ","Kildare"
-" "," ","Planning Permissions Granted (Number)",48,71,40,61,49,51,59,49
-" "," ","Units for which Permission Granted (Number)",712,681,547,400,459,376,463,269
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",98,104,73,53,60,49,61,39
-" "," ","Average Floor Area per Unit (Sq Metres)",138.0,152.9,134.2,132.5,131.4,130.0,132.2,144.0
+" "," ","Planning Permissions Granted (Number)",48,71,40,61,49,51,59,49,41,42
+" "," ","Units for which Permission Granted (Number)",712,681,547,400,459,376,463,269,411,341
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",98,104,73,53,60,49,61,39,50,47
+" "," ","Average Floor Area per Unit (Sq Metres)",138.0,152.9,134.2,132.5,131.4,130.0,132.2,144.0,121.9,136.9
 " ","Louth"
-" "," ","Planning Permissions Granted (Number)",49,27,38,44,44,47,39,44
-" "," ","Units for which Permission Granted (Number)",193,33,57,129,73,231,77,389
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",26,7,11,17,13,31,13,54
-" "," ","Average Floor Area per Unit (Sq Metres)",135.5,210.3,188.2,133.9,182.0,135.6,165.1,138.6
+" "," ","Planning Permissions Granted (Number)",49,27,38,44,44,47,39,44,34,9
+" "," ","Units for which Permission Granted (Number)",193,33,57,129,73,231,77,389,236,9
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",26,7,11,17,13,31,13,54,29,2
+" "," ","Average Floor Area per Unit (Sq Metres)",135.5,210.3,188.2,133.9,182.0,135.6,165.1,138.6,124.5,236.4
 " ","Meath"
-" "," ","Planning Permissions Granted (Number)",93,63,115,82,81,85,104,82
-" "," ","Units for which Permission Granted (Number)",427,318,295,342,339,751,335,327
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",63,49,50,52,53,100,55,50
-" "," ","Average Floor Area per Unit (Sq Metres)",146.6,154.0,169.1,153.3,157.8,132.7,165.1,154.0
+" "," ","Planning Permissions Granted (Number)",93,63,115,82,81,85,104,82,103,65
+" "," ","Units for which Permission Granted (Number)",427,318,295,342,339,751,335,327,795,162
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",63,49,50,52,53,100,55,50,108,30
+" "," ","Average Floor Area per Unit (Sq Metres)",146.6,154.0,169.1,153.3,157.8,132.7,165.1,154.0,136.3,186.0
 " ","Wicklow"
-" "," ","Planning Permissions Granted (Number)",54,51,54,40,46,44,50,37
-" "," ","Units for which Permission Granted (Number)",202,66,329,89,312,58,59,222
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",29,15,41,16,49,10,12,29
-" "," ","Average Floor Area per Unit (Sq Metres)",145.3,229.6,126.0,174.7,156.2,180.1,198.9,130.8
+" "," ","Planning Permissions Granted (Number)",54,51,54,40,46,44,50,37,54,37
+" "," ","Units for which Permission Granted (Number)",202,66,329,89,312,58,59,222,477,209
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",29,15,41,16,49,10,12,29,64,29
+" "," ","Average Floor Area per Unit (Sq Metres)",145.3,229.6,126.0,174.7,156.2,180.1,198.9,130.8,133.3,139.0
 " ","Midland"
-" "," ","Planning Permissions Granted (Number)",140,125,106,114,151,156,135,109
-" "," ","Units for which Permission Granted (Number)",296,468,223,347,358,328,511,316
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",52,73,41,54,60,60,78,49
-" "," ","Average Floor Area per Unit (Sq Metres)",175.1,156.9,184.3,156.0,167.6,182.5,152.9,154.5
+" "," ","Planning Permissions Granted (Number)",140,125,106,114,151,156,135,109,117,98
+" "," ","Units for which Permission Granted (Number)",296,468,223,347,358,328,511,316,398,195
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",52,73,41,54,60,60,78,49,63,34
+" "," ","Average Floor Area per Unit (Sq Metres)",175.1,156.9,184.3,156.0,167.6,182.5,152.9,154.5,157.4,172.8
 " ","Laois"
-" "," ","Planning Permissions Granted (Number)",36,43,26,49,51,44,40,27
-" "," ","Units for which Permission Granted (Number)",131,139,112,255,225,132,160,135
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",20,24,16,33,33,21,24,17
-" "," ","Average Floor Area per Unit (Sq Metres)",151.5,169.8,142.0,131.3,145.1,159.8,150.1,127.2
+" "," ","Planning Permissions Granted (Number)",36,43,26,49,51,44,40,27,32,37
+" "," ","Units for which Permission Granted (Number)",131,139,112,255,225,132,160,135,140,106
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",20,24,16,33,33,21,24,17,20,16
+" "," ","Average Floor Area per Unit (Sq Metres)",151.5,169.8,142.0,131.3,145.1,159.8,150.1,127.2,139.8,147.6
 " ","Longford"
-" "," ","Planning Permissions Granted (Number)",21,16,10,11,31,24,8,26
-" "," ","Units for which Permission Granted (Number)",38,21,10,11,36,27,12,113
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,5,2,3,8,7,2,14
-" "," ","Average Floor Area per Unit (Sq Metres)",167.6,217.1,238.1,241.5,217.6,247.9,190.5,128.3
+" "," ","Planning Permissions Granted (Number)",21,16,10,11,31,24,8,26,25,11
+" "," ","Units for which Permission Granted (Number)",38,21,10,11,36,27,12,113,46,15
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,5,2,3,8,7,2,14,8,3
+" "," ","Average Floor Area per Unit (Sq Metres)",167.6,217.1,238.1,241.5,217.6,247.9,190.5,128.3,170.2,200.4
 " ","Offaly"
-" "," ","Planning Permissions Granted (Number)",39,33,43,28,44,45,47,27
-" "," ","Units for which Permission Granted (Number)",43,238,68,53,64,125,212,27
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",10,34,15,11,13,21,33,8
-" "," ","Average Floor Area per Unit (Sq Metres)",242.4,142.8,217.2,214.1,198.7,167.8,153.6,291.7
+" "," ","Planning Permissions Granted (Number)",39,33,43,28,44,45,47,27,24,30
+" "," ","Units for which Permission Granted (Number)",43,238,68,53,64,125,212,27,87,38
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",10,34,15,11,13,21,33,8,13,9
+" "," ","Average Floor Area per Unit (Sq Metres)",242.4,142.8,217.2,214.1,198.7,167.8,153.6,291.7,147.8,240.4
 " ","Westmeath"
-" "," ","Planning Permissions Granted (Number)",44,33,27,26,25,43,40,29
-" "," ","Units for which Permission Granted (Number)",84,70,33,28,33,44,127,41
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",15,11,8,7,7,11,19,9
-" "," ","Average Floor Area per Unit (Sq Metres)",181.0,160.9,243.7,237.1,206.6,252.3,151.8,226.2
+" "," ","Planning Permissions Granted (Number)",44,33,27,26,25,43,40,29,36,20
+" "," ","Units for which Permission Granted (Number)",84,70,33,28,33,44,127,41,125,36
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",15,11,8,7,7,11,19,9,22,6
+" "," ","Average Floor Area per Unit (Sq Metres)",181.0,160.9,243.7,237.1,206.6,252.3,151.8,226.2,179.0,164.0
 "Multi development houses"
 " ","State"
-" "," ","Planning Permissions Granted (Number)",146,149,177,150,158,169,169,150
-" "," ","Units for which Permission Granted (Number)",4367,3636,3463,3017,3445,3549,3420,3634
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",555,482,442,385,446,461,438,450
-" "," ","Average Floor Area per Unit (Sq Metres)",127.2,132.6,127.6,127.7,129.5,129.8,127.9,123.7
+" "," ","Planning Permissions Granted (Number)",146,149,177,150,158,169,169,150,172,92
+" "," ","Units for which Permission Granted (Number)",4367,3636,3463,3017,3445,3549,3420,3634,3736,2394
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",555,482,442,385,446,461,438,450,465,284
+" "," ","Average Floor Area per Unit (Sq Metres)",127.2,132.6,127.6,127.7,129.5,129.8,127.9,123.7,124.4,118.5
 " ","Northern and Western"
-" "," ","Planning Permissions Granted (Number)",15,21,28,26,25,19,23,19
-" "," ","Units for which Permission Granted (Number)",239,306,263,360,351,153,570,333
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",31,41,34,44,44,28,70,40
-" "," ","Average Floor Area per Unit (Sq Metres)",131.2,134.0,128.7,122.2,125.9,184.3,123.6,121.2
+" "," ","Planning Permissions Granted (Number)",15,21,28,26,25,19,23,19,27,11
+" "," ","Units for which Permission Granted (Number)",239,306,263,360,351,153,570,333,357,191
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",31,41,34,44,44,28,70,40,48,21
+" "," ","Average Floor Area per Unit (Sq Metres)",131.2,134.0,128.7,122.2,125.9,184.3,123.6,121.2,134.0,108.0
 " ","Border"
-" "," ","Planning Permissions Granted (Number)",5,5,11,10,14,10,8,9
-" "," ","Units for which Permission Granted (Number)",62,61,100,128,264,123,205,141
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",7,6,14,14,33,23,23,17
-" "," ","Average Floor Area per Unit (Sq Metres)",108.3,97.4,139.6,109.3,123.6,183.1,113.3,122.5
+" "," ","Planning Permissions Granted (Number)",5,5,11,10,14,10,8,9,13,7
+" "," ","Units for which Permission Granted (Number)",62,61,100,128,264,123,205,141,156,154
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",7,6,14,14,33,23,23,17,19,16
+" "," ","Average Floor Area per Unit (Sq Metres)",108.3,97.4,139.6,109.3,123.6,183.1,113.3,122.5,120.9,107.0
 " ","Leitrim"
-" "," ","Planning Permissions Granted (Number)",..,..,..,..,..,1,1,..
-" "," ","Units for which Permission Granted (Number)",..,..,..,..,..,7,3,..
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",..,..,..,..,..,1,0,..
-" "," ","Average Floor Area per Unit (Sq Metres)",..,..,..,..,..,87.3,164.0,..
+" "," ","Planning Permissions Granted (Number)",..,..,..,..,..,1,1,..,..,..
+" "," ","Units for which Permission Granted (Number)",..,..,..,..,..,7,3,..,..,..
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",..,..,..,..,..,1,0,..,..,..
+" "," ","Average Floor Area per Unit (Sq Metres)",..,..,..,..,..,87.3,164.0,..,..,..
 " ","Sligo"
-" "," ","Planning Permissions Granted (Number)",..,2,2,1,2,2,1,..
-" "," ","Units for which Permission Granted (Number)",..,7,8,18,12,9,74,..
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",..,1,1,2,1,1,9,..
-" "," ","Average Floor Area per Unit (Sq Metres)",..,150.3,160.1,112.9,117.9,106.2,120.2,..
+" "," ","Planning Permissions Granted (Number)",..,2,2,1,2,2,1,..,3,1
+" "," ","Units for which Permission Granted (Number)",..,7,8,18,12,9,74,..,92,6
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",..,1,1,2,1,1,9,..,12,1
+" "," ","Average Floor Area per Unit (Sq Metres)",..,150.3,160.1,112.9,117.9,106.2,120.2,..,127.1,139.0
 " ","Cavan"
-" "," ","Planning Permissions Granted (Number)",1,..,4,2,5,2,..,2
-" "," ","Units for which Permission Granted (Number)",3,..,77,77,88,81,..,33
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,..,11,7,10,18,..,4
-" "," ","Average Floor Area per Unit (Sq Metres)",124.0,..,138.3,96.6,115.0,221.1,..,126.8
+" "," ","Planning Permissions Granted (Number)",1,..,4,2,5,2,..,2,1,..
+" "," ","Units for which Permission Granted (Number)",3,..,77,77,88,81,..,33,2,..
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,..,11,7,10,18,..,4,0,..
+" "," ","Average Floor Area per Unit (Sq Metres)",124.0,..,138.3,96.6,115.0,221.1,..,126.8,96.0,..
 " ","Donegal"
-" "," ","Planning Permissions Granted (Number)",2,1,5,5,3,3,4,2
-" "," ","Units for which Permission Granted (Number)",4,8,15,23,33,17,123,63
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,1,2,3,3,2,13,8
-" "," ","Average Floor Area per Unit (Sq Metres)",121.8,94.3,135.2,121.7,100.6,102.2,108.4,130.4
+" "," ","Planning Permissions Granted (Number)",2,1,5,5,3,3,4,2,6,5
+" "," ","Units for which Permission Granted (Number)",4,8,15,23,33,17,123,63,53,107
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,1,2,3,3,2,13,8,6,11
+" "," ","Average Floor Area per Unit (Sq Metres)",121.8,94.3,135.2,121.7,100.6,102.2,108.4,130.4,106.0,105.8
 " ","Monaghan"
-" "," ","Planning Permissions Granted (Number)",2,2,..,2,4,2,2,5
-" "," ","Units for which Permission Granted (Number)",55,46,..,10,131,9,5,45
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,4,..,2,18,1,0,5
-" "," ","Average Floor Area per Unit (Sq Metres)",106.5,89.9,..,171.5,135.8,145.1,99.4,108.4
+" "," ","Planning Permissions Granted (Number)",2,2,..,2,4,2,2,5,3,1
+" "," ","Units for which Permission Granted (Number)",55,46,..,10,131,9,5,45,9,41
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,4,..,2,18,1,0,5,1,4
+" "," ","Average Floor Area per Unit (Sq Metres)",106.5,89.9,..,171.5,135.8,145.1,99.4,108.4,150.3,105.6
 " ","West"
-" "," ","Planning Permissions Granted (Number)",10,16,17,16,11,9,15,10
-" "," ","Units for which Permission Granted (Number)",177,245,163,232,87,30,365,192
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",25,35,20,30,12,6,47,23
-" "," ","Average Floor Area per Unit (Sq Metres)",139.3,143.1,122.0,129.3,132.8,189.3,129.4,120.2
+" "," ","Planning Permissions Granted (Number)",10,16,17,16,11,9,15,10,14,4
+" "," ","Units for which Permission Granted (Number)",177,245,163,232,87,30,365,192,201,37
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",25,35,20,30,12,6,47,23,29,4
+" "," ","Average Floor Area per Unit (Sq Metres)",139.3,143.1,122.0,129.3,132.8,189.3,129.4,120.2,144.2,112.0
 " ","Galway"
-" "," ","Planning Permissions Granted (Number)",7,8,9,11,5,5,5,3
-" "," ","Units for which Permission Granted (Number)",147,159,105,219,24,16,212,22
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",20,21,13,28,3,2,29,2
-" "," ","Average Floor Area per Unit (Sq Metres)",139.4,134.8,125.4,127.0,132.6,149.3,136.4,109.3
+" "," ","Planning Permissions Granted (Number)",7,8,9,11,5,5,5,3,5,1
+" "," ","Units for which Permission Granted (Number)",147,159,105,219,24,16,212,22,103,9
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",20,21,13,28,3,2,29,2,14,1
+" "," ","Average Floor Area per Unit (Sq Metres)",139.4,134.8,125.4,127.0,132.6,149.3,136.4,109.3,135.6,105.1
 " ","Galway City"
-" "," ","Planning Permissions Granted (Number)",1,5,1,1,2,3,4,3
-" "," ","Units for which Permission Granted (Number)",23,73,2,4,32,12,98,144
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",3,11,0,0,4,3,11,18
-" "," ","Average Floor Area per Unit (Sq Metres)",130.4,152.8,204.5,73.0,122.8,240.7,108.6,123.9
+" "," ","Planning Permissions Granted (Number)",1,5,1,1,2,3,4,3,2,1
+" "," ","Units for which Permission Granted (Number)",23,73,2,4,32,12,98,144,4,23
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",3,11,0,0,4,3,11,18,1,2
+" "," ","Average Floor Area per Unit (Sq Metres)",130.4,152.8,204.5,73.0,122.8,240.7,108.6,123.9,199.0,94.4
 " ","Mayo"
-" "," ","Planning Permissions Granted (Number)",..,2,5,2,4,1,4,1
-" "," ","Units for which Permission Granted (Number)",..,4,22,4,31,2,51,8
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",..,0,3,1,4,0,7,1
-" "," ","Average Floor Area per Unit (Sq Metres)",..,101.8,139.6,179.5,143.3,201.5,133.7,131.5
+" "," ","Planning Permissions Granted (Number)",..,2,5,2,4,1,4,1,4,2
+" "," ","Units for which Permission Granted (Number)",..,4,22,4,31,2,51,8,25,5
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",..,0,3,1,4,0,7,1,3,1
+" "," ","Average Floor Area per Unit (Sq Metres)",..,101.8,139.6,179.5,143.3,201.5,133.7,131.5,130.3,205.2
 " ","Roscommon"
-" "," ","Planning Permissions Granted (Number)",2,1,2,2,..,..,2,3
-" "," ","Units for which Permission Granted (Number)",7,9,34,5,..,..,4,18
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,2,3,1,..,..,1,2
-" "," ","Average Floor Area per Unit (Sq Metres)",165.4,230.0,95.2,233.6,..,..,210.0,98.9
+" "," ","Planning Permissions Granted (Number)",2,1,2,2,..,..,2,3,3,..
+" "," ","Units for which Permission Granted (Number)",7,9,34,5,..,..,4,18,69,..
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,2,3,1,..,..,1,2,11,..
+" "," ","Average Floor Area per Unit (Sq Metres)",165.4,230.0,95.2,233.6,..,..,210.0,98.9,158.8,..
 " ","Southern"
-" "," ","Planning Permissions Granted (Number)",50,63,63,56,66,71,72,55
-" "," ","Units for which Permission Granted (Number)",1339,1697,860,1191,1580,1746,1433,987
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",164,216,113,156,199,227,186,123
-" "," ","Average Floor Area per Unit (Sq Metres)",122.2,127.2,131.9,130.7,126.2,129.8,129.7,124.2
+" "," ","Planning Permissions Granted (Number)",50,63,63,56,66,71,72,55,58,37
+" "," ","Units for which Permission Granted (Number)",1339,1697,860,1191,1580,1746,1433,987,747,1201
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",164,216,113,156,199,227,186,123,93,139
+" "," ","Average Floor Area per Unit (Sq Metres)",122.2,127.2,131.9,130.7,126.2,129.8,129.7,124.2,123.9,115.8
 " ","Mid-West"
-" "," ","Planning Permissions Granted (Number)",10,13,14,15,13,12,12,16
-" "," ","Units for which Permission Granted (Number)",132,258,153,306,228,192,206,248
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",16,35,22,38,28,23,27,27
-" "," ","Average Floor Area per Unit (Sq Metres)",124.1,134.0,145.6,124.2,121.9,121.9,131.6,110.7
+" "," ","Planning Permissions Granted (Number)",10,13,14,15,13,12,12,16,12,9
+" "," ","Units for which Permission Granted (Number)",132,258,153,306,228,192,206,248,166,127
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",16,35,22,38,28,23,27,27,19,15
+" "," ","Average Floor Area per Unit (Sq Metres)",124.1,134.0,145.6,124.2,121.9,121.9,131.6,110.7,113.2,116.2
 " ","Clare"
-" "," ","Planning Permissions Granted (Number)",2,3,4,2,1,3,4,4
-" "," ","Units for which Permission Granted (Number)",9,86,79,11,48,13,26,136
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,10,10,2,7,2,6,14
-" "," ","Average Floor Area per Unit (Sq Metres)",217.6,121.4,125.5,144.0,153.0,151.7,222.6,103.9
+" "," ","Planning Permissions Granted (Number)",2,3,4,2,1,3,4,4,2,4
+" "," ","Units for which Permission Granted (Number)",9,86,79,11,48,13,26,136,7,49
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,10,10,2,7,2,6,14,1,7
+" "," ","Average Floor Area per Unit (Sq Metres)",217.6,121.4,125.5,144.0,153.0,151.7,222.6,103.9,129.0,135.5
 " ","Limerick"
-" "," ","Planning Permissions Granted (Number)",6,8,5,9,8,5,4,8
-" "," ","Units for which Permission Granted (Number)",101,162,42,270,146,129,121,56
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",11,23,8,34,16,15,14,6
-" "," ","Average Floor Area per Unit (Sq Metres)",112.6,142.7,202.2,125.5,110.4,116.3,119.2,99.0
+" "," ","Planning Permissions Granted (Number)",6,8,5,9,8,5,4,8,6,4
+" "," ","Units for which Permission Granted (Number)",101,162,42,270,146,129,121,56,35,15
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",11,23,8,34,16,15,14,6,5,2
+" "," ","Average Floor Area per Unit (Sq Metres)",112.6,142.7,202.2,125.5,110.4,116.3,119.2,99.0,135.7,104.6
 " ","Tipperary"
-" "," ","Planning Permissions Granted (Number)",2,2,5,4,4,4,4,4
-" "," ","Units for which Permission Granted (Number)",22,10,32,25,34,50,59,56
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",3,1,4,3,4,6,7,8
-" "," ","Average Floor Area per Unit (Sq Metres)",138.6,102.9,120.7,101.0,127.6,128.6,116.9,139.0
+" "," ","Planning Permissions Granted (Number)",2,2,5,4,4,4,4,4,4,1
+" "," ","Units for which Permission Granted (Number)",22,10,32,25,34,50,59,56,124,63
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",3,1,4,3,4,6,7,8,13,7
+" "," ","Average Floor Area per Unit (Sq Metres)",138.6,102.9,120.7,101.0,127.6,128.6,116.9,139.0,106.0,104.0
 " ","South-East"
-" "," ","Planning Permissions Granted (Number)",18,11,18,19,16,26,30,14
-" "," ","Units for which Permission Granted (Number)",250,297,259,584,467,986,770,160
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",31,32,34,74,58,125,102,23
-" "," ","Average Floor Area per Unit (Sq Metres)",122.4,108.5,132.0,127.0,124.2,127.2,132.1,144.4
+" "," ","Planning Permissions Granted (Number)",18,11,18,19,16,26,30,14,17,11
+" "," ","Units for which Permission Granted (Number)",250,297,259,584,467,986,770,160,172,162
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",31,32,34,74,58,125,102,23,20,17
+" "," ","Average Floor Area per Unit (Sq Metres)",122.4,108.5,132.0,127.0,124.2,127.2,132.1,144.4,116.2,107.7
 " ","Carlow"
-" "," ","Planning Permissions Granted (Number)",..,1,2,1,2,6,3,1
-" "," ","Units for which Permission Granted (Number)",..,4,16,19,10,25,92,9
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",..,1,2,2,1,4,8,1
-" "," ","Average Floor Area per Unit (Sq Metres)",..,350.0,126.8,105.5,86.4,140.6,88.4,101.6
+" "," ","Planning Permissions Granted (Number)",..,1,2,1,2,6,3,1,4,2
+" "," ","Units for which Permission Granted (Number)",..,4,16,19,10,25,92,9,47,54
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",..,1,2,2,1,4,8,1,4,5
+" "," ","Average Floor Area per Unit (Sq Metres)",..,350.0,126.8,105.5,86.4,140.6,88.4,101.6,84.4,94.0
 " ","Kilkenny"
-" "," ","Planning Permissions Granted (Number)",4,3,5,3,6,2,6,5
-" "," ","Units for which Permission Granted (Number)",25,24,65,105,122,55,78,72
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",3,3,8,13,16,7,9,12
-" "," ","Average Floor Area per Unit (Sq Metres)",121.3,139.7,127.7,125.2,131.4,118.6,114.5,167.1
+" "," ","Planning Permissions Granted (Number)",4,3,5,3,6,2,6,5,2,4
+" "," ","Units for which Permission Granted (Number)",25,24,65,105,122,55,78,72,14,57
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",3,3,8,13,16,7,9,12,3,7
+" "," ","Average Floor Area per Unit (Sq Metres)",121.3,139.7,127.7,125.2,131.4,118.6,114.5,167.1,229.1,123.6
 " ","Wexford"
-" "," ","Planning Permissions Granted (Number)",9,4,6,10,6,13,11,4
-" "," ","Units for which Permission Granted (Number)",91,229,71,192,317,624,163,27
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",11,23,10,22,39,80,19,4
-" "," ","Average Floor Area per Unit (Sq Metres)",125.9,100.1,145.9,112.2,121.8,128.7,118.3,140.4
+" "," ","Planning Permissions Granted (Number)",9,4,6,10,6,13,11,4,8,3
+" "," ","Units for which Permission Granted (Number)",91,229,71,192,317,624,163,27,103,44
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",11,23,10,22,39,80,19,4,12,5
+" "," ","Average Floor Area per Unit (Sq Metres)",125.9,100.1,145.9,112.2,121.8,128.7,118.3,140.4,116.6,103.9
 " ","Waterford"
-" "," ","Planning Permissions Granted (Number)",5,3,5,5,2,5,10,4
-" "," ","Units for which Permission Granted (Number)",134,40,107,268,18,282,437,52
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",16,5,14,37,2,35,65,6
-" "," ","Average Floor Area per Unit (Sq Metres)",120.2,113.6,126.3,139.8,137.6,124.3,149.6,122.4
+" "," ","Planning Permissions Granted (Number)",5,3,5,5,2,5,10,4,3,2
+" "," ","Units for which Permission Granted (Number)",134,40,107,268,18,282,437,52,8,7
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",16,5,14,37,2,35,65,6,1,1
+" "," ","Average Floor Area per Unit (Sq Metres)",120.2,113.6,126.3,139.8,137.6,124.3,149.6,122.4,100.3,107.6
 " ","South-West"
-" "," ","Planning Permissions Granted (Number)",22,39,31,22,37,33,30,25
-" "," ","Units for which Permission Granted (Number)",957,1142,448,301,885,568,457,579
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",117,149,57,44,114,78,57,72
-" "," ","Average Floor Area per Unit (Sq Metres)",121.9,130.6,127.2,144.6,128.4,136.9,124.8,124.5
+" "," ","Planning Permissions Granted (Number)",22,39,31,22,37,33,30,25,29,17
+" "," ","Units for which Permission Granted (Number)",957,1142,448,301,885,568,457,579,409,912
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",117,149,57,44,114,78,57,72,54,107
+" "," ","Average Floor Area per Unit (Sq Metres)",121.9,130.6,127.2,144.6,128.4,136.9,124.8,124.5,131.5,117.1
 " ","Cork"
-" "," ","Planning Permissions Granted (Number)",4,27,24,15,27,3,2,2
-" "," ","Units for which Permission Granted (Number)",23,888,411,251,728,15,25,34
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,114,49,35,93,3,2,4
-" "," ","Average Floor Area per Unit (Sq Metres)",243.7,128.6,120.2,137.8,127.8,177.5,74.3,114.4
+" "," ","Planning Permissions Granted (Number)",4,27,24,15,27,26,27,23,24,9
+" "," ","Units for which Permission Granted (Number)",23,888,411,251,728,508,430,545,369,351
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,114,49,35,93,70,54,68,49,41
+" "," ","Average Floor Area per Unit (Sq Metres)",243.7,128.6,120.2,137.8,127.8,138.5,126.5,125.1,134.1,116.6
 " ","Cork City"
-" "," ","Planning Permissions Granted (Number)",16,9,6,4,4,26,27,23
-" "," ","Units for which Permission Granted (Number)",922,146,33,35,41,508,430,545
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",109,22,7,6,6,70,54,68
-" "," ","Average Floor Area per Unit (Sq Metres)",118.1,150.3,201.5,171.8,149.9,138.5,126.5,125.1
+" "," ","Planning Permissions Granted (Number)",16,9,6,4,4,3,2,2,3,4
+" "," ","Units for which Permission Granted (Number)",922,146,33,35,41,15,25,34,8,551
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",109,22,7,6,6,3,2,4,1,64
+" "," ","Average Floor Area per Unit (Sq Metres)",118.1,150.3,201.5,171.8,149.9,177.5,74.3,114.4,117.6,115.8
 " ","Kerry"
-" "," ","Planning Permissions Granted (Number)",2,3,1,3,6,4,1,..
-" "," ","Units for which Permission Granted (Number)",12,108,4,15,116,45,2,..
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,13,1,3,14,5,1,..
-" "," ","Average Floor Area per Unit (Sq Metres)",180.5,119.5,231.8,194.9,124.6,105.9,385.5,..
+" "," ","Planning Permissions Granted (Number)",2,3,1,3,6,4,1,..,2,4
+" "," ","Units for which Permission Granted (Number)",12,108,4,15,116,45,2,..,32,10
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,13,1,3,14,5,1,..,3,2
+" "," ","Average Floor Area per Unit (Sq Metres)",180.5,119.5,231.8,194.9,124.6,105.9,385.5,..,104.3,211.3
 " ","Eastern and Midland"
-" "," ","Planning Permissions Granted (Number)",81,65,86,68,67,79,74,76
-" "," ","Units for which Permission Granted (Number)",2789,1633,2340,1466,1514,1650,1417,2314
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",360,225,295,186,202,206,181,287
-" "," ","Average Floor Area per Unit (Sq Metres)",129.2,138.0,125.9,126.5,133.7,124.8,127.9,123.9
+" "," ","Planning Permissions Granted (Number)",81,65,86,68,67,79,74,76,87,44
+" "," ","Units for which Permission Granted (Number)",2789,1633,2340,1466,1514,1650,1417,2314,2632,1002
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",360,225,295,186,202,206,181,287,324,124
+" "," ","Average Floor Area per Unit (Sq Metres)",129.2,138.0,125.9,126.5,133.7,124.8,127.9,123.9,123.3,123.8
 " ","Dublin"
-" "," ","Planning Permissions Granted (Number)",44,30,48,30,26,31,30,32
-" "," ","Units for which Permission Granted (Number)",1306,369,1204,462,303,241,315,1068
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",176,49,157,66,45,36,45,133
-" "," ","Average Floor Area per Unit (Sq Metres)",134.7,132.8,130.8,143.7,148.3,147.9,144.1,124.6
+" "," ","Planning Permissions Granted (Number)",44,30,48,30,26,31,30,32,29,12
+" "," ","Units for which Permission Granted (Number)",1306,369,1204,462,303,241,315,1068,606,305
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",176,49,157,66,45,36,45,133,79,37
+" "," ","Average Floor Area per Unit (Sq Metres)",134.7,132.8,130.8,143.7,148.3,147.9,144.1,124.6,130.2,119.7
 " ","Dublin City"
-" "," ","Planning Permissions Granted (Number)",9,8,16,16,8,12,6,9
-" "," ","Units for which Permission Granted (Number)",81,40,78,89,95,56,30,45
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",10,7,9,15,12,9,4,8
-" "," ","Average Floor Area per Unit (Sq Metres)",127.5,163.7,121.4,171.8,125.9,153.7,144.9,182.0
+" "," ","Planning Permissions Granted (Number)",9,8,16,16,8,12,6,9,8,6
+" "," ","Units for which Permission Granted (Number)",81,40,78,89,95,56,30,45,29,16
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",10,7,9,15,12,9,4,8,4,2
+" "," ","Average Floor Area per Unit (Sq Metres)",127.5,163.7,121.4,171.8,125.9,153.7,144.9,182.0,127.8,128.1
 " ","South Dublin"
-" "," ","Planning Permissions Granted (Number)",9,7,10,5,1,6,4,7
-" "," ","Units for which Permission Granted (Number)",628,147,287,249,2,57,31,867
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",82,18,31,31,0,7,5,102
-" "," ","Average Floor Area per Unit (Sq Metres)",131.2,120.6,109.2,124.9,91.5,127.4,170.2,117.1
+" "," ","Planning Permissions Granted (Number)",9,7,10,5,1,6,4,7,7,2
+" "," ","Units for which Permission Granted (Number)",628,147,287,249,2,57,31,867,59,92
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",82,18,31,31,0,7,5,102,7,9
+" "," ","Average Floor Area per Unit (Sq Metres)",131.2,120.6,109.2,124.9,91.5,127.4,170.2,117.1,117.6,92.6
 " ","Fingal"
-" "," ","Planning Permissions Granted (Number)",14,11,15,4,9,3,6,7
-" "," ","Units for which Permission Granted (Number)",501,141,386,10,83,20,135,103
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",67,19,47,2,12,3,18,15
-" "," ","Average Floor Area per Unit (Sq Metres)",134.4,131.8,122.7,159.1,146.6,132.0,134.9,144.0
+" "," ","Planning Permissions Granted (Number)",14,11,15,4,9,3,6,7,7,2
+" "," ","Units for which Permission Granted (Number)",501,141,386,10,83,20,135,103,298,133
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",67,19,47,2,12,3,18,15,37,16
+" "," ","Average Floor Area per Unit (Sq Metres)",134.4,131.8,122.7,159.1,146.6,132.0,134.9,144.0,122.9,120.1
 " ","Dun Laoghaire - Rathdown"
-" "," ","Planning Permissions Granted (Number)",12,4,7,5,8,10,14,9
-" "," ","Units for which Permission Granted (Number)",96,41,453,114,123,108,119,53
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",16,6,69,18,21,17,18,9
-" "," ","Average Floor Area per Unit (Sq Metres)",165.6,149.5,153.0,161.5,167.7,158.7,147.5,160.5
+" "," ","Planning Permissions Granted (Number)",12,4,7,5,8,10,14,9,7,2
+" "," ","Units for which Permission Granted (Number)",96,41,453,114,123,108,119,53,220,64
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",16,6,69,18,21,17,18,9,32,10
+" "," ","Average Floor Area per Unit (Sq Metres)",165.6,149.5,153.0,161.5,167.7,158.7,147.5,160.5,143.8,155.7
 " ","Mid-East"
-" "," ","Planning Permissions Granted (Number)",28,19,27,28,31,37,28,32
-" "," ","Units for which Permission Granted (Number)",1318,905,1008,761,994,1226,710,1027
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",165,131,121,92,132,147,88,130
-" "," ","Average Floor Area per Unit (Sq Metres)",125.4,144.7,120.2,120.4,132.8,119.6,124.4,126.9
+" "," ","Planning Permissions Granted (Number)",28,19,27,28,31,37,28,32,40,23
+" "," ","Units for which Permission Granted (Number)",1318,905,1008,761,994,1226,710,1027,1727,591
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",165,131,121,92,132,147,88,130,207,77
+" "," ","Average Floor Area per Unit (Sq Metres)",125.4,144.7,120.2,120.4,132.8,119.6,124.4,126.9,119.9,130.7
 " ","Kildare"
-" "," ","Planning Permissions Granted (Number)",6,6,9,10,14,12,11,10
-" "," ","Units for which Permission Granted (Number)",670,616,516,349,424,337,415,230
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",88,89,66,42,53,41,51,30
-" "," ","Average Floor Area per Unit (Sq Metres)",130.8,145.1,127.0,120.8,124.3,120.4,122.2,130.0
+" "," ","Planning Permissions Granted (Number)",6,6,9,10,14,12,11,10,11,12
+" "," ","Units for which Permission Granted (Number)",670,616,516,349,424,337,415,230,381,311
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",88,89,66,42,53,41,51,30,44,40
+" "," ","Average Floor Area per Unit (Sq Metres)",130.8,145.1,127.0,120.8,124.3,120.4,122.2,130.0,114.6,129.4
 " ","Louth"
-" "," ","Planning Permissions Granted (Number)",6,2,4,3,6,10,4,5
-" "," ","Units for which Permission Granted (Number)",150,8,23,88,35,194,42,350
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",16,1,2,8,5,22,4,45
-" "," ","Average Floor Area per Unit (Sq Metres)",106.5,123.3,97.1,92.4,131.2,115.5,101.8,128.6
+" "," ","Planning Permissions Granted (Number)",6,2,4,3,6,10,4,5,5,..
+" "," ","Units for which Permission Granted (Number)",150,8,23,88,35,194,42,350,207,..
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",16,1,2,8,5,22,4,45,23,..
+" "," ","Average Floor Area per Unit (Sq Metres)",106.5,123.3,97.1,92.4,131.2,115.5,101.8,128.6,109.6,..
 " ","Meath"
-" "," ","Planning Permissions Granted (Number)",7,8,8,9,6,12,8,11
-" "," ","Units for which Permission Granted (Number)",341,263,188,269,264,678,239,256
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",42,36,21,32,35,82,31,32
-" "," ","Average Floor Area per Unit (Sq Metres)",121.7,135.2,113.9,120.7,132.7,120.7,131.1,126.0
+" "," ","Planning Permissions Granted (Number)",7,8,8,9,6,12,8,11,13,3
+" "," ","Units for which Permission Granted (Number)",341,263,188,269,264,678,239,256,705,100
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",42,36,21,32,35,82,31,32,85,14
+" "," ","Average Floor Area per Unit (Sq Metres)",121.7,135.2,113.9,120.7,132.7,120.7,131.1,126.0,120.8,143.2
 " ","Wicklow"
-" "," ","Planning Permissions Granted (Number)",9,3,6,6,5,3,5,6
-" "," ","Units for which Permission Granted (Number)",157,18,281,55,271,17,14,191
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",20,5,32,9,40,2,2,23
-" "," ","Average Floor Area per Unit (Sq Metres)",128.6,283.4,113.7,161.2,146.4,104.9,145.5,121.1
+" "," ","Planning Permissions Granted (Number)",9,3,6,6,5,3,5,6,11,8
+" "," ","Units for which Permission Granted (Number)",157,18,281,55,271,17,14,191,434,180
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",20,5,32,9,40,2,2,23,56,23
+" "," ","Average Floor Area per Unit (Sq Metres)",128.6,283.4,113.7,161.2,146.4,104.9,145.5,121.1,128.1,126.1
 " ","Midland"
-" "," ","Planning Permissions Granted (Number)",9,16,11,10,10,11,16,12
-" "," ","Units for which Permission Granted (Number)",165,359,128,243,217,183,392,219
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",19,45,16,27,26,24,48,23
-" "," ","Average Floor Area per Unit (Sq Metres)",115.6,126.3,125.5,113.2,117.6,129.3,121.3,106.3
+" "," ","Planning Permissions Granted (Number)",9,16,11,10,10,11,16,12,18,9
+" "," ","Units for which Permission Granted (Number)",165,359,128,243,217,183,392,219,299,106
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",19,45,16,27,26,24,48,23,38,10
+" "," ","Average Floor Area per Unit (Sq Metres)",115.6,126.3,125.5,113.2,117.6,129.3,121.3,106.3,128.5,97.1
 " ","Laois"
-" "," ","Planning Permissions Granted (Number)",3,4,4,5,5,5,6,3
-" "," ","Units for which Permission Granted (Number)",98,100,90,211,179,93,126,111
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",12,14,11,23,22,12,16,11
-" "," ","Average Floor Area per Unit (Sq Metres)",125.2,139.7,118.4,108.2,121.8,134.0,123.5,102.2
+" "," ","Planning Permissions Granted (Number)",3,4,4,5,5,5,6,3,3,4
+" "," ","Units for which Permission Granted (Number)",98,100,90,211,179,93,126,111,111,73
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",12,14,11,23,22,12,16,11,12,7
+" "," ","Average Floor Area per Unit (Sq Metres)",125.2,139.7,118.4,108.2,121.8,134.0,123.5,102.2,108.3,95.1
 " ","Longford"
-" "," ","Planning Permissions Granted (Number)",3,2,..,..,1,1,1,6
-" "," ","Units for which Permission Granted (Number)",20,7,..,..,6,4,5,93
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,1,..,..,0,0,1,9
-" "," ","Average Floor Area per Unit (Sq Metres)",86.4,95.9,..,..,69.7,113.5,156.8,100.5
+" "," ","Planning Permissions Granted (Number)",3,2,..,..,1,1,1,6,4,1
+" "," ","Units for which Permission Granted (Number)",20,7,..,..,6,4,5,93,25,5
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,1,..,..,0,0,1,9,2,0
+" "," ","Average Floor Area per Unit (Sq Metres)",86.4,95.9,..,..,69.7,113.5,156.8,100.5,99.8,68.0
 " ","Offaly"
-" "," ","Planning Permissions Granted (Number)",1,3,3,3,3,4,2,..
-" "," ","Units for which Permission Granted (Number)",5,208,28,28,23,84,167,..
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,26,4,4,2,10,20,..
-" "," ","Average Floor Area per Unit (Sq Metres)",110.4,124.3,127.6,152.0,98.0,121.5,122.4,..
+" "," ","Planning Permissions Granted (Number)",1,3,3,3,3,4,2,..,5,2
+" "," ","Units for which Permission Granted (Number)",5,208,28,28,23,84,167,..,68,10
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,26,4,4,2,10,20,..,8,1
+" "," ","Average Floor Area per Unit (Sq Metres)",110.4,124.3,127.6,152.0,98.0,121.5,122.4,..,122.5,122.4
 " ","Westmeath"
-" "," ","Planning Permissions Granted (Number)",2,7,4,2,1,1,7,3
-" "," ","Units for which Permission Granted (Number)",42,44,10,4,9,2,94,15
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,5,2,0,1,1,11,3
-" "," ","Average Floor Area per Unit (Sq Metres)",107.8,110.0,182.5,101.5,116.0,263.5,114.4,172.1
+" "," ","Planning Permissions Granted (Number)",2,7,4,2,1,1,7,3,6,2
+" "," ","Units for which Permission Granted (Number)",42,44,10,4,9,2,94,15,95,18
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,5,2,0,1,1,11,3,16,2
+" "," ","Average Floor Area per Unit (Sq Metres)",107.8,110.0,182.5,101.5,116.0,263.5,114.4,172.1,163.8,99.3
 "One off houses"
 " ","State"
-" "," ","Planning Permissions Granted (Number)",1391,1315,1416,1359,1456,1387,1514,1265
-" "," ","Units for which Permission Granted (Number)",1391,1315,1416,1359,1456,1387,1514,1265
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",331,312,335,323,340,320,355,296
-" "," ","Average Floor Area per Unit (Sq Metres)",238.0,237.1,236.9,237.4,233.7,230.7,234.5,234.2
+" "," ","Planning Permissions Granted (Number)",1391,1315,1416,1359,1456,1387,1514,1265,1355,669
+" "," ","Units for which Permission Granted (Number)",1391,1315,1416,1359,1456,1387,1514,1265,1355,669
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",331,312,335,323,340,320,355,296,311,157
+" "," ","Average Floor Area per Unit (Sq Metres)",238.0,237.1,236.9,237.4,233.7,230.7,234.5,234.2,229.6,234.3
 " ","Northern and Western"
-" "," ","Planning Permissions Granted (Number)",362,386,420,419,431,382,438,384
-" "," ","Units for which Permission Granted (Number)",362,386,420,419,431,382,438,384
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",91,98,103,105,106,93,109,93
-" "," ","Average Floor Area per Unit (Sq Metres)",251.4,252.9,244.6,250.8,246.3,243.9,248.6,241.0
+" "," ","Planning Permissions Granted (Number)",362,386,420,419,431,382,438,384,421,139
+" "," ","Units for which Permission Granted (Number)",362,386,420,419,431,382,438,384,421,139
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",91,98,103,105,106,93,109,93,104,33
+" "," ","Average Floor Area per Unit (Sq Metres)",251.4,252.9,244.6,250.8,246.3,243.9,248.6,241.0,248.1,240.9
 " ","Border"
-" "," ","Planning Permissions Granted (Number)",169,181,177,201,185,167,221,191
-" "," ","Units for which Permission Granted (Number)",169,181,177,201,185,167,221,191
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",42,47,43,50,45,41,54,46
-" "," ","Average Floor Area per Unit (Sq Metres)",249.9,257.2,243.5,250.6,243.3,246.8,242.8,239.0
+" "," ","Planning Permissions Granted (Number)",169,181,177,201,185,167,221,191,187,69
+" "," ","Units for which Permission Granted (Number)",169,181,177,201,185,167,221,191,187,69
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",42,47,43,50,45,41,54,46,46,16
+" "," ","Average Floor Area per Unit (Sq Metres)",249.9,257.2,243.5,250.6,243.3,246.8,242.8,239.0,244.4,233.9
 " ","Leitrim"
-" "," ","Planning Permissions Granted (Number)",1,4,7,4,5,11,10,10
-" "," ","Units for which Permission Granted (Number)",1,4,7,4,5,11,10,10
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,1,2,1,1,3,3,2
-" "," ","Average Floor Area per Unit (Sq Metres)",351.0,270.0,219.3,231.3,254.8,269.6,252.2,221.0
+" "," ","Planning Permissions Granted (Number)",1,4,7,4,5,11,10,10,15,3
+" "," ","Units for which Permission Granted (Number)",1,4,7,4,5,11,10,10,15,3
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,1,2,1,1,3,3,2,4,1
+" "," ","Average Floor Area per Unit (Sq Metres)",351.0,270.0,219.3,231.3,254.8,269.6,252.2,221.0,255.1,233.3
 " ","Sligo"
-" "," ","Planning Permissions Granted (Number)",26,22,23,25,21,10,26,29
-" "," ","Units for which Permission Granted (Number)",26,22,23,25,21,10,26,29
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,6,6,6,5,2,6,6
-" "," ","Average Floor Area per Unit (Sq Metres)",241.7,262.5,248.1,251.6,225.1,183.3,245.2,212.1
+" "," ","Planning Permissions Granted (Number)",26,22,23,25,21,10,26,29,22,4
+" "," ","Units for which Permission Granted (Number)",26,22,23,25,21,10,26,29,22,4
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,6,6,6,5,2,6,6,5,1
+" "," ","Average Floor Area per Unit (Sq Metres)",241.7,262.5,248.1,251.6,225.1,183.3,245.2,212.1,234.5,189.0
 " ","Cavan"
-" "," ","Planning Permissions Granted (Number)",22,30,25,23,29,26,29,19
-" "," ","Units for which Permission Granted (Number)",22,30,25,23,29,26,29,19
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,8,6,6,8,7,8,5
-" "," ","Average Floor Area per Unit (Sq Metres)",268.7,265.3,248.2,260.2,278.9,258.7,258.8,249.1
+" "," ","Planning Permissions Granted (Number)",22,30,25,23,29,26,29,19,24,5
+" "," ","Units for which Permission Granted (Number)",22,30,25,23,29,26,29,19,24,5
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",6,8,6,6,8,7,8,5,6,1
+" "," ","Average Floor Area per Unit (Sq Metres)",268.7,265.3,248.2,260.2,278.9,258.7,258.8,249.1,247.9,236.2
 " ","Donegal"
-" "," ","Planning Permissions Granted (Number)",72,75,71,91,93,82,114,85
-" "," ","Units for which Permission Granted (Number)",72,75,71,91,93,82,114,85
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",18,19,17,22,22,20,27,21
-" "," ","Average Floor Area per Unit (Sq Metres)",245.6,257.7,240.9,245.8,236.9,248.6,238.4,244.8
+" "," ","Planning Permissions Granted (Number)",72,75,71,91,93,82,114,85,92,31
+" "," ","Units for which Permission Granted (Number)",72,75,71,91,93,82,114,85,92,31
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",18,19,17,22,22,20,27,21,23,7
+" "," ","Average Floor Area per Unit (Sq Metres)",245.6,257.7,240.9,245.8,236.9,248.6,238.4,244.8,248.9,236.9
 " ","Monaghan"
-" "," ","Planning Permissions Granted (Number)",48,50,51,58,37,38,42,48
-" "," ","Units for which Permission Granted (Number)",48,50,51,58,37,38,42,48
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",12,12,13,15,9,9,10,12
-" "," ","Average Floor Area per Unit (Sq Metres)",250.0,248.2,246.2,255.3,240.2,245.0,239.8,244.6
+" "," ","Planning Permissions Granted (Number)",48,50,51,58,37,38,42,48,34,26
+" "," ","Units for which Permission Granted (Number)",48,50,51,58,37,38,42,48,34,26
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",12,12,13,15,9,9,10,12,8,6
+" "," ","Average Floor Area per Unit (Sq Metres)",250.0,248.2,246.2,255.3,240.2,245.0,239.8,244.6,231.3,236.8
 " ","West"
-" "," ","Planning Permissions Granted (Number)",193,205,243,218,246,215,217,193
-" "," ","Units for which Permission Granted (Number)",193,205,243,218,246,215,217,193
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",49,51,60,55,61,52,55,47
-" "," ","Average Floor Area per Unit (Sq Metres)",252.7,249.1,245.4,251.0,248.5,241.6,254.5,243.1
+" "," ","Planning Permissions Granted (Number)",193,205,243,218,246,215,217,193,234,70
+" "," ","Units for which Permission Granted (Number)",193,205,243,218,246,215,217,193,234,70
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",49,51,60,55,61,52,55,47,59,17
+" "," ","Average Floor Area per Unit (Sq Metres)",252.7,249.1,245.4,251.0,248.5,241.6,254.5,243.1,251.1,247.7
 " ","Galway"
-" "," ","Planning Permissions Granted (Number)",109,98,124,116,144,110,125,102
-" "," ","Units for which Permission Granted (Number)",109,98,124,116,144,110,125,102
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",28,24,31,30,37,26,32,25
-" "," ","Average Floor Area per Unit (Sq Metres)",257.9,248.4,249.6,261.6,254.8,240.8,259.3,247.5
+" "," ","Planning Permissions Granted (Number)",109,98,124,116,144,110,125,102,131,41
+" "," ","Units for which Permission Granted (Number)",109,98,124,116,144,110,125,102,131,41
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",28,24,31,30,37,26,32,25,34,10
+" "," ","Average Floor Area per Unit (Sq Metres)",257.9,248.4,249.6,261.6,254.8,240.8,259.3,247.5,257.8,242.3
 " ","Galway City"
-" "," ","Planning Permissions Granted (Number)",7,11,6,5,7,4,..,7
-" "," ","Units for which Permission Granted (Number)",7,11,6,5,7,4,..,7
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,3,1,1,1,1,..,2
-" "," ","Average Floor Area per Unit (Sq Metres)",216.0,317.4,205.8,235.4,191.7,205.8,..,218.1
+" "," ","Planning Permissions Granted (Number)",7,11,6,5,7,4,..,7,8,2
+" "," ","Units for which Permission Granted (Number)",7,11,6,5,7,4,..,7,8,2
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,3,1,1,1,1,..,2,2,1
+" "," ","Average Floor Area per Unit (Sq Metres)",216.0,317.4,205.8,235.4,191.7,205.8,..,218.1,275.3,294.0
 " ","Mayo"
-" "," ","Planning Permissions Granted (Number)",56,71,83,49,66,71,61,63
-" "," ","Units for which Permission Granted (Number)",56,71,83,49,66,71,61,63
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",14,16,20,11,16,17,15,14
-" "," ","Average Floor Area per Unit (Sq Metres)",247.0,230.5,237.9,225.1,238.0,241.0,240.4,229.8
+" "," ","Planning Permissions Granted (Number)",56,71,83,49,66,71,61,63,76,23
+" "," ","Units for which Permission Granted (Number)",56,71,83,49,66,71,61,63,76,23
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",14,16,20,11,16,17,15,14,18,6
+" "," ","Average Floor Area per Unit (Sq Metres)",247.0,230.5,237.9,225.1,238.0,241.0,240.4,229.8,235.6,249.7
 " ","Roscommon"
-" "," ","Planning Permissions Granted (Number)",21,25,30,48,29,30,31,21
-" "," ","Units for which Permission Granted (Number)",21,25,30,48,29,30,31,21
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,7,8,12,7,8,8,6
-" "," ","Average Floor Area per Unit (Sq Metres)",253.3,274.6,257.2,253.6,254.9,250.4,263.0,270.0
+" "," ","Planning Permissions Granted (Number)",21,25,30,48,29,30,31,21,19,4
+" "," ","Units for which Permission Granted (Number)",21,25,30,48,29,30,31,21,19,4
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,7,8,12,7,8,8,6,5,1
+" "," ","Average Floor Area per Unit (Sq Metres)",253.3,274.6,257.2,253.6,254.9,250.4,263.0,270.0,256.5,269.8
 " ","Southern"
-" "," ","Planning Permissions Granted (Number)",578,535,571,536,591,577,637,515
-" "," ","Units for which Permission Granted (Number)",578,535,571,536,591,577,637,515
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",136,125,132,124,138,131,148,121
-" "," ","Average Floor Area per Unit (Sq Metres)",234.4,233.3,231.5,232.0,234.0,226.2,231.7,234.2
+" "," ","Planning Permissions Granted (Number)",578,535,571,536,591,577,637,515,541,271
+" "," ","Units for which Permission Granted (Number)",578,535,571,536,591,577,637,515,541,271
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",136,125,132,124,138,131,148,121,121,63
+" "," ","Average Floor Area per Unit (Sq Metres)",234.4,233.3,231.5,232.0,234.0,226.2,231.7,234.2,222.8,231.4
 " ","Mid-West"
-" "," ","Planning Permissions Granted (Number)",184,157,184,144,184,165,173,115
-" "," ","Units for which Permission Granted (Number)",184,157,184,144,184,165,173,115
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",42,37,43,35,43,39,42,27
-" "," ","Average Floor Area per Unit (Sq Metres)",230.5,238.8,233.6,240.1,236.1,233.6,240.2,235.3
+" "," ","Planning Permissions Granted (Number)",184,157,184,144,184,165,173,115,144,67
+" "," ","Units for which Permission Granted (Number)",184,157,184,144,184,165,173,115,144,67
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",42,37,43,35,43,39,42,27,32,16
+" "," ","Average Floor Area per Unit (Sq Metres)",230.5,238.8,233.6,240.1,236.1,233.6,240.2,235.3,223.4,233.6
 " ","Clare"
-" "," ","Planning Permissions Granted (Number)",71,60,63,49,66,65,52,37
-" "," ","Units for which Permission Granted (Number)",71,60,63,49,66,65,52,37
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",16,15,15,12,16,15,13,9
-" "," ","Average Floor Area per Unit (Sq Metres)",229.3,250.0,236.7,254.9,249.6,232.9,252.6,242.3
+" "," ","Planning Permissions Granted (Number)",71,60,63,49,66,65,52,37,31,15
+" "," ","Units for which Permission Granted (Number)",71,60,63,49,66,65,52,37,31,15
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",16,15,15,12,16,15,13,9,7,4
+" "," ","Average Floor Area per Unit (Sq Metres)",229.3,250.0,236.7,254.9,249.6,232.9,252.6,242.3,232.5,246.9
 " ","Limerick"
-" "," ","Planning Permissions Granted (Number)",65,51,63,45,67,56,65,41
-" "," ","Units for which Permission Granted (Number)",65,51,63,45,67,56,65,41
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",15,11,15,10,15,13,15,9
-" "," ","Average Floor Area per Unit (Sq Metres)",235.3,222.6,232.4,231.4,227.9,237.7,227.2,226.2
+" "," ","Planning Permissions Granted (Number)",65,51,63,45,67,56,65,41,74,36
+" "," ","Units for which Permission Granted (Number)",65,51,63,45,67,56,65,41,74,36
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",15,11,15,10,15,13,15,9,16,8
+" "," ","Average Floor Area per Unit (Sq Metres)",235.3,222.6,232.4,231.4,227.9,237.7,227.2,226.2,216.9,223.7
 " ","Tipperary"
-" "," ","Planning Permissions Granted (Number)",48,46,58,50,51,44,56,37
-" "," ","Units for which Permission Granted (Number)",48,46,58,50,51,44,56,37
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",11,11,13,12,12,10,14,9
-" "," ","Average Floor Area per Unit (Sq Metres)",225.7,242.2,231.7,233.6,229.3,229.5,243.6,238.3
+" "," ","Planning Permissions Granted (Number)",48,46,58,50,51,44,56,37,39,16
+" "," ","Units for which Permission Granted (Number)",48,46,58,50,51,44,56,37,39,16
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",11,11,13,12,12,10,14,9,9,4
+" "," ","Average Floor Area per Unit (Sq Metres)",225.7,242.2,231.7,233.6,229.3,229.5,243.6,238.3,228.6,243.3
 " ","South-East"
-" "," ","Planning Permissions Granted (Number)",171,148,171,161,167,178,213,164
-" "," ","Units for which Permission Granted (Number)",171,148,171,161,167,178,213,164
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",42,36,40,38,40,41,50,39
-" "," ","Average Floor Area per Unit (Sq Metres)",245.9,240.7,235.6,235.1,239.4,232.9,233.8,238.5
+" "," ","Planning Permissions Granted (Number)",171,148,171,161,167,178,213,164,184,106
+" "," ","Units for which Permission Granted (Number)",171,148,171,161,167,178,213,164,184,106
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",42,36,40,38,40,41,50,39,43,24
+" "," ","Average Floor Area per Unit (Sq Metres)",245.9,240.7,235.6,235.1,239.4,232.9,233.8,238.5,234.8,228.6
 " ","Carlow"
-" "," ","Planning Permissions Granted (Number)",18,8,16,18,20,24,23,18
-" "," ","Units for which Permission Granted (Number)",18,8,16,18,20,24,23,18
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,2,4,5,5,6,6,4
-" "," ","Average Floor Area per Unit (Sq Metres)",271.8,253.1,254.6,254.3,240.0,258.2,242.7,237.7
+" "," ","Planning Permissions Granted (Number)",18,8,16,18,20,24,23,18,19,10
+" "," ","Units for which Permission Granted (Number)",18,8,16,18,20,24,23,18,19,10
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,2,4,5,5,6,6,4,4,2
+" "," ","Average Floor Area per Unit (Sq Metres)",271.8,253.1,254.6,254.3,240.0,258.2,242.7,237.7,214.3,216.3
 " ","Kilkenny"
-" "," ","Planning Permissions Granted (Number)",39,39,38,42,41,46,59,45
-" "," ","Units for which Permission Granted (Number)",39,39,38,42,41,46,59,45
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",10,10,9,10,10,11,15,11
-" "," ","Average Floor Area per Unit (Sq Metres)",258.1,254.9,243.2,241.2,244.7,243.6,249.1,248.8
+" "," ","Planning Permissions Granted (Number)",39,39,38,42,41,46,59,45,53,37
+" "," ","Units for which Permission Granted (Number)",39,39,38,42,41,46,59,45,53,37
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",10,10,9,10,10,11,15,11,14,8
+" "," ","Average Floor Area per Unit (Sq Metres)",258.1,254.9,243.2,241.2,244.7,243.6,249.1,248.8,262.8,226.4
 " ","Wexford"
-" "," ","Planning Permissions Granted (Number)",74,62,78,71,81,70,79,61
-" "," ","Units for which Permission Granted (Number)",74,62,78,71,81,70,79,61
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",18,15,18,16,19,16,19,15
-" "," ","Average Floor Area per Unit (Sq Metres)",243.9,246.6,233.3,225.5,237.1,230.6,240.1,250.4
+" "," ","Planning Permissions Granted (Number)",74,62,78,71,81,70,79,61,65,33
+" "," ","Units for which Permission Granted (Number)",74,62,78,71,81,70,79,61,65,33
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",18,15,18,16,19,16,19,15,15,8
+" "," ","Average Floor Area per Unit (Sq Metres)",243.9,246.6,233.3,225.5,237.1,230.6,240.1,250.4,229.9,242.1
 " ","Waterford"
-" "," ","Planning Permissions Granted (Number)",40,39,39,30,25,38,52,40
-" "," ","Units for which Permission Granted (Number)",40,39,39,30,25,38,52,40
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",9,8,9,7,6,8,11,8
-" "," ","Average Floor Area per Unit (Sq Metres)",226.3,214.5,225.2,238.1,237.7,208.1,202.9,209.0
+" "," ","Planning Permissions Granted (Number)",40,39,39,30,25,38,52,40,47,26
+" "," ","Units for which Permission Granted (Number)",40,39,39,30,25,38,52,40,47,26
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",9,8,9,7,6,8,11,8,10,6
+" "," ","Average Floor Area per Unit (Sq Metres)",226.3,214.5,225.2,238.1,237.7,208.1,202.9,209.0,218.1,219.3
 " ","South-West"
-" "," ","Planning Permissions Granted (Number)",223,230,216,231,240,234,251,236
-" "," ","Units for which Permission Granted (Number)",223,230,216,231,240,234,251,236
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",51,52,49,52,55,51,56,54
-" "," ","Average Floor Area per Unit (Sq Metres)",228.9,224.8,226.3,224.7,228.6,215.9,224.1,230.6
+" "," ","Planning Permissions Granted (Number)",223,230,216,231,240,234,251,236,213,98
+" "," ","Units for which Permission Granted (Number)",223,230,216,231,240,234,251,236,213,98
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",51,52,49,52,55,51,56,54,45,23
+" "," ","Average Floor Area per Unit (Sq Metres)",228.9,224.8,226.3,224.7,228.6,215.9,224.1,230.6,212.2,232.8
 " ","Cork"
-" "," ","Planning Permissions Granted (Number)",10,174,160,166,178,9,12,7
-" "," ","Units for which Permission Granted (Number)",10,174,160,166,178,9,12,7
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,39,37,37,40,2,2,1
-" "," ","Average Floor Area per Unit (Sq Metres)",152.8,223.1,228.9,223.5,227.4,216.7,175.8,208.6
+" "," ","Planning Permissions Granted (Number)",10,174,160,166,178,172,162,161,151,70
+" "," ","Units for which Permission Granted (Number)",10,174,160,166,178,172,162,161,151,70
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,39,37,37,40,38,37,37,33,16
+" "," ","Average Floor Area per Unit (Sq Metres)",152.8,223.1,228.9,223.5,227.4,219.1,228.5,231.3,216.4,226.6
 " ","Cork City"
-" "," ","Planning Permissions Granted (Number)",161,13,2,5,3,172,162,161
-" "," ","Units for which Permission Granted (Number)",161,13,2,5,3,172,162,161
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",37,2,0,1,1,38,37,37
-" "," ","Average Floor Area per Unit (Sq Metres)",230.5,172.5,89.0,159.8,207.3,219.1,228.5,231.3
+" "," ","Planning Permissions Granted (Number)",161,13,2,5,3,9,12,7,12,5
+" "," ","Units for which Permission Granted (Number)",161,13,2,5,3,9,12,7,12,5
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",37,2,0,1,1,2,2,1,2,1
+" "," ","Average Floor Area per Unit (Sq Metres)",230.5,172.5,89.0,159.8,207.3,216.7,175.8,208.6,148.7,208.2
 " ","Kerry"
-" "," ","Planning Permissions Granted (Number)",52,43,54,60,59,53,77,68
-" "," ","Units for which Permission Granted (Number)",52,43,54,60,59,53,77,68
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",12,11,12,14,14,11,17,16
-" "," ","Average Floor Area per Unit (Sq Metres)",238.6,247.5,223.8,233.4,233.2,205.5,222.4,231.3
+" "," ","Planning Permissions Granted (Number)",52,43,54,60,59,53,77,68,50,23
+" "," ","Units for which Permission Granted (Number)",52,43,54,60,59,53,77,68,50,23
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",12,11,12,14,14,11,17,16,11,6
+" "," ","Average Floor Area per Unit (Sq Metres)",238.6,247.5,223.8,233.4,233.2,205.5,222.4,231.3,214.8,257.2
 " ","Eastern and Midland"
-" "," ","Planning Permissions Granted (Number)",451,394,425,404,434,428,439,366
-" "," ","Units for which Permission Granted (Number)",451,394,425,404,434,428,439,366
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",104,89,101,93,96,96,99,83
-" "," ","Average Floor Area per Unit (Sq Metres)",231.7,226.6,236.6,230.8,221.0,225.1,224.5,226.9
+" "," ","Planning Permissions Granted (Number)",451,394,425,404,434,428,439,366,393,259
+" "," ","Units for which Permission Granted (Number)",451,394,425,404,434,428,439,366,393,259
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",104,89,101,93,96,96,99,83,86,61
+" "," ","Average Floor Area per Unit (Sq Metres)",231.7,226.6,236.6,230.8,221.0,225.1,224.5,226.9,219.2,233.8
 " ","Dublin"
-" "," ","Planning Permissions Granted (Number)",104,92,110,101,104,93,96,89
-" "," ","Units for which Permission Granted (Number)",104,92,110,101,104,93,96,89
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",21,17,21,20,18,16,15,16
-" "," ","Average Floor Area per Unit (Sq Metres)",199.2,184.9,192.5,198.2,168.8,176.8,159.4,177.1
+" "," ","Planning Permissions Granted (Number)",104,92,110,101,104,93,96,89,102,40
+" "," ","Units for which Permission Granted (Number)",104,92,110,101,104,93,96,89,102,40
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",21,17,21,20,18,16,15,16,18,6
+" "," ","Average Floor Area per Unit (Sq Metres)",199.2,184.9,192.5,198.2,168.8,176.8,159.4,177.1,172.7,160.7
 " ","Dublin City"
-" "," ","Planning Permissions Granted (Number)",37,25,42,31,33,36,36,37
-" "," ","Units for which Permission Granted (Number)",37,25,42,31,33,36,36,37
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",7,4,8,6,4,6,5,5
-" "," ","Average Floor Area per Unit (Sq Metres)",193.4,170.4,198.4,198.8,124.5,161.9,125.0,137.4
+" "," ","Planning Permissions Granted (Number)",37,25,42,31,33,36,36,37,31,14
+" "," ","Units for which Permission Granted (Number)",37,25,42,31,33,36,36,37,31,14
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",7,4,8,6,4,6,5,5,5,3
+" "," ","Average Floor Area per Unit (Sq Metres)",193.4,170.4,198.4,198.8,124.5,161.9,125.0,137.4,150.8,184.5
 " ","South Dublin"
-" "," ","Planning Permissions Granted (Number)",16,15,16,11,16,6,19,14
-" "," ","Units for which Permission Granted (Number)",16,15,16,11,16,6,19,14
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,2,2,2,3,1,3,2
-" "," ","Average Floor Area per Unit (Sq Metres)",143.7,164.7,136.6,136.5,157.3,150.5,154.6,145.7
+" "," ","Planning Permissions Granted (Number)",16,15,16,11,16,6,19,14,17,9
+" "," ","Units for which Permission Granted (Number)",16,15,16,11,16,6,19,14,17,9
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,2,2,2,3,1,3,2,2,1
+" "," ","Average Floor Area per Unit (Sq Metres)",143.7,164.7,136.6,136.5,157.3,150.5,154.6,145.7,145.8,113.6
 " ","Fingal"
-" "," ","Planning Permissions Granted (Number)",28,31,37,37,23,17,21,22
-" "," ","Units for which Permission Granted (Number)",28,31,37,37,23,17,21,22
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",7,6,8,8,5,3,4,5
-" "," ","Average Floor Area per Unit (Sq Metres)",252.8,199.0,214.2,216.4,213.4,150.4,181.5,215.2
+" "," ","Planning Permissions Granted (Number)",28,31,37,37,23,17,21,22,26,8
+" "," ","Units for which Permission Granted (Number)",28,31,37,37,23,17,21,22,26,8
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",7,6,8,8,5,3,4,5,6,2
+" "," ","Average Floor Area per Unit (Sq Metres)",252.8,199.0,214.2,216.4,213.4,150.4,181.5,215.2,212.2,193.5
 " ","Dun Laoghaire - Rathdown"
-" "," ","Planning Permissions Granted (Number)",23,21,15,22,32,34,20,16
-" "," ","Units for which Permission Granted (Number)",23,21,15,22,32,34,20,16
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",4,4,3,4,6,7,4,4
-" "," ","Average Floor Area per Unit (Sq Metres)",181.8,195.8,182.3,197.7,188.3,210.5,202.8,244.1
+" "," ","Planning Permissions Granted (Number)",23,21,15,22,32,34,20,16,28,9
+" "," ","Units for which Permission Granted (Number)",23,21,15,22,32,34,20,16,28,9
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",4,4,3,4,6,7,4,4,5,1
+" "," ","Average Floor Area per Unit (Sq Metres)",181.8,195.8,182.3,197.7,188.3,210.5,202.8,244.1,176.8,141.8
 " ","Mid-East"
-" "," ","Planning Permissions Granted (Number)",216,193,220,199,189,190,224,180
-" "," ","Units for which Permission Granted (Number)",216,193,220,199,189,190,224,180
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",51,44,54,47,44,44,53,42
-" "," ","Average Floor Area per Unit (Sq Metres)",236.1,229.0,246.9,234.2,232.0,230.0,234.9,232.0
+" "," ","Planning Permissions Granted (Number)",216,193,220,199,189,190,224,180,192,130
+" "," ","Units for which Permission Granted (Number)",216,193,220,199,189,190,224,180,192,130
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",51,44,54,47,44,44,53,42,44,31
+" "," ","Average Floor Area per Unit (Sq Metres)",236.1,229.0,246.9,234.2,232.0,230.0,234.9,232.0,230.7,236.4
 " ","Kildare"
-" "," ","Planning Permissions Granted (Number)",42,65,31,51,35,39,48,39
-" "," ","Units for which Permission Granted (Number)",42,65,31,51,35,39,48,39
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",11,15,8,11,8,8,11,9
-" "," ","Average Floor Area per Unit (Sq Metres)",251.8,227.5,253.8,212.6,217.7,212.9,219.2,226.2
+" "," ","Planning Permissions Granted (Number)",42,65,31,51,35,39,48,39,30,30
+" "," ","Units for which Permission Granted (Number)",42,65,31,51,35,39,48,39,30,30
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",11,15,8,11,8,8,11,9,6,6
+" "," ","Average Floor Area per Unit (Sq Metres)",251.8,227.5,253.8,212.6,217.7,212.9,219.2,226.2,214.0,214.4
 " ","Louth"
-" "," ","Planning Permissions Granted (Number)",43,25,34,41,38,37,35,39
-" "," ","Units for which Permission Granted (Number)",43,25,34,41,38,37,35,39
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",10,6,8,9,9,9,8,9
-" "," ","Average Floor Area per Unit (Sq Metres)",236.9,238.2,249.8,223.0,228.7,241.0,241.0,228.3
+" "," ","Planning Permissions Granted (Number)",43,25,34,41,38,37,35,39,29,9
+" "," ","Units for which Permission Granted (Number)",43,25,34,41,38,37,35,39,29,9
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",10,6,8,9,9,9,8,9,7,2
+" "," ","Average Floor Area per Unit (Sq Metres)",236.9,238.2,249.8,223.0,228.7,241.0,241.0,228.3,230.4,236.4
 " ","Meath"
-" "," ","Planning Permissions Granted (Number)",86,55,107,73,75,73,96,71
-" "," ","Units for which Permission Granted (Number)",86,55,107,73,75,73,96,71
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",21,13,28,20,18,18,24,18
-" "," ","Average Floor Area per Unit (Sq Metres)",245.1,243.8,265.9,273.1,246.2,244.0,249.7,255.1
+" "," ","Planning Permissions Granted (Number)",86,55,107,73,75,73,96,71,90,62
+" "," ","Units for which Permission Granted (Number)",86,55,107,73,75,73,96,71,90,62
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",21,13,28,20,18,18,24,18,23,16
+" "," ","Average Floor Area per Unit (Sq Metres)",245.1,243.8,265.9,273.1,246.2,244.0,249.7,255.1,257.7,255.0
 " ","Wicklow"
-" "," ","Planning Permissions Granted (Number)",45,48,48,34,41,41,45,31
-" "," ","Units for which Permission Granted (Number)",45,48,48,34,41,41,45,31
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",9,10,10,7,9,9,10,6
-" "," ","Average Floor Area per Unit (Sq Metres)",203.6,209.4,198.0,196.4,221.1,211.3,215.5,190.8
+" "," ","Planning Permissions Granted (Number)",45,48,48,34,41,41,45,31,43,29
+" "," ","Units for which Permission Granted (Number)",45,48,48,34,41,41,45,31,43,29
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",9,10,10,7,9,9,10,6,8,6
+" "," ","Average Floor Area per Unit (Sq Metres)",203.6,209.4,198.0,196.4,221.1,211.3,215.5,190.8,185.9,219.3
 " ","Midland"
-" "," ","Planning Permissions Granted (Number)",131,109,95,104,141,145,119,97
-" "," ","Units for which Permission Granted (Number)",131,109,95,104,141,145,119,97
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",33,28,25,27,34,36,31,26
-" "," ","Average Floor Area per Unit (Sq Metres)",250.1,257.6,263.6,256.1,244.6,249.7,257.2,263.3
+" "," ","Planning Permissions Granted (Number)",131,109,95,104,141,145,119,97,99,89
+" "," ","Units for which Permission Granted (Number)",131,109,95,104,141,145,119,97,99,89
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",33,28,25,27,34,36,31,26,24,23
+" "," ","Average Floor Area per Unit (Sq Metres)",250.1,257.6,263.6,256.1,244.6,249.7,257.2,263.3,244.6,262.9
 " ","Laois"
-" "," ","Planning Permissions Granted (Number)",33,39,22,44,46,39,34,24
-" "," ","Units for which Permission Granted (Number)",33,39,22,44,46,39,34,24
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",8,10,5,11,11,9,8,6
-" "," ","Average Floor Area per Unit (Sq Metres)",229.5,246.9,238.5,242.1,235.7,221.3,248.8,242.8
+" "," ","Planning Permissions Granted (Number)",33,39,22,44,46,39,34,24,29,33
+" "," ","Units for which Permission Granted (Number)",33,39,22,44,46,39,34,24,29,33
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",8,10,5,11,11,9,8,6,8,9
+" "," ","Average Floor Area per Unit (Sq Metres)",229.5,246.9,238.5,242.1,235.7,221.3,248.8,242.8,260.2,263.8
 " ","Longford"
-" "," ","Planning Permissions Granted (Number)",18,14,10,11,30,23,7,20
-" "," ","Units for which Permission Granted (Number)",18,14,10,11,30,23,7,20
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,4,2,3,7,6,2,5
-" "," ","Average Floor Area per Unit (Sq Metres)",257.9,277.7,238.1,241.5,247.2,271.3,214.6,257.3
+" "," ","Planning Permissions Granted (Number)",18,14,10,11,30,23,7,20,21,10
+" "," ","Units for which Permission Granted (Number)",18,14,10,11,30,23,7,20,21,10
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,4,2,3,7,6,2,5,5,3
+" "," ","Average Floor Area per Unit (Sq Metres)",257.9,277.7,238.1,241.5,247.2,271.3,214.6,257.3,254.0,266.6
 " ","Offaly"
-" "," ","Planning Permissions Granted (Number)",38,30,40,25,41,41,45,27
-" "," ","Units for which Permission Granted (Number)",38,30,40,25,41,41,45,27
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",10,8,11,7,10,11,12,8
-" "," ","Average Floor Area per Unit (Sq Metres)",259.8,271.1,279.9,283.6,255.2,262.5,269.4,291.7
+" "," ","Planning Permissions Granted (Number)",38,30,40,25,41,41,45,27,19,28
+" "," ","Units for which Permission Granted (Number)",38,30,40,25,41,41,45,27,19,28
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",10,8,11,7,10,11,12,8,5,8
+" "," ","Average Floor Area per Unit (Sq Metres)",259.8,271.1,279.9,283.6,255.2,262.5,269.4,291.7,238.3,282.5
 " ","Westmeath"
-" "," ","Planning Permissions Granted (Number)",42,26,23,24,24,42,33,26
-" "," ","Units for which Permission Granted (Number)",42,26,23,24,24,42,33,26
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",11,6,6,6,6,11,9,7
-" "," ","Average Floor Area per Unit (Sq Metres)",254.2,247.2,270.3,259.7,240.6,251.8,258.3,257.4
+" "," ","Planning Permissions Granted (Number)",42,26,23,24,24,42,33,26,30,18
+" "," ","Units for which Permission Granted (Number)",42,26,23,24,24,42,33,26,30,18
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",11,6,6,6,6,11,9,7,7,4
+" "," ","Average Floor Area per Unit (Sq Metres)",254.2,247.2,270.3,259.7,240.6,251.8,258.3,257.4,227.1,228.8
 "Private flats/apartments"
 " ","State"
-" "," ","Planning Permissions Granted (Number)",161,161,211,160,196,203,229,171
-" "," ","Units for which Permission Granted (Number)",1867,1826,3139,2306,2592,4675,5656,7659
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",159,166,278,190,226,390,431,595
-" "," ","Average Floor Area per Unit (Sq Metres)",85.4,91.0,88.7,82.2,87.1,83.4,76.3,77.7
+" "," ","Planning Permissions Granted (Number)",161,161,211,160,196,203,229,171,192,101
+" "," ","Units for which Permission Granted (Number)",1867,1826,3139,2306,2592,4675,5656,7659,9698,3744
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",159,166,278,190,226,390,431,595,727,269
+" "," ","Average Floor Area per Unit (Sq Metres)",85.4,91.0,88.7,82.2,87.1,83.4,76.3,77.7,75.0,72.0
 " ","Northern and Western"
-" "," ","Planning Permissions Granted (Number)",21,21,27,25,16,20,28,16
-" "," ","Units for which Permission Granted (Number)",41,88,73,146,76,71,371,548
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",3,7,6,13,6,6,31,55
-" "," ","Average Floor Area per Unit (Sq Metres)",80.4,85.0,85.6,89.9,84.8,80.0,84.0,100.2
+" "," ","Planning Permissions Granted (Number)",21,21,27,25,16,20,28,16,22,7
+" "," ","Units for which Permission Granted (Number)",41,88,73,146,76,71,371,548,131,104
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",3,7,6,13,6,6,31,55,10,8
+" "," ","Average Floor Area per Unit (Sq Metres)",80.4,85.0,85.6,89.9,84.8,80.0,84.0,100.2,77.2,79.2
 " ","Border"
-" "," ","Planning Permissions Granted (Number)",9,9,12,10,5,11,11,6
-" "," ","Units for which Permission Granted (Number)",14,21,22,24,11,22,47,9
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,1,2,2,1,2,4,1
-" "," ","Average Floor Area per Unit (Sq Metres)",80.1,69.9,76.6,92.6,63.2,80.3,79.1,87.6
+" "," ","Planning Permissions Granted (Number)",9,9,12,10,5,11,11,6,7,4
+" "," ","Units for which Permission Granted (Number)",14,21,22,24,11,22,47,9,20,23
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,1,2,2,1,2,4,1,2,2
+" "," ","Average Floor Area per Unit (Sq Metres)",80.1,69.9,76.6,92.6,63.2,80.3,79.1,87.6,77.8,82.3
 " ","Leitrim"
-" "," ","Planning Permissions Granted (Number)",..,1,..,..,..,1,..,..
-" "," ","Units for which Permission Granted (Number)",..,1,..,..,..,2,..,..
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",..,0,..,..,..,0,..,..
-" "," ","Average Floor Area per Unit (Sq Metres)",..,40.0,..,..,..,76.0,..,..
+" "," ","Planning Permissions Granted (Number)",..,1,..,..,..,1,..,..,1,1
+" "," ","Units for which Permission Granted (Number)",..,1,..,..,..,2,..,..,4,2
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",..,0,..,..,..,0,..,..,0,0
+" "," ","Average Floor Area per Unit (Sq Metres)",..,40.0,..,..,..,76.0,..,..,57.8,47.0
 " ","Sligo"
-" "," ","Planning Permissions Granted (Number)",3,1,2,1,2,2,4,1
-" "," ","Units for which Permission Granted (Number)",6,1,5,1,2,4,25,3
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,0,0,0,0,0,2,0
-" "," ","Average Floor Area per Unit (Sq Metres)",88.8,113.0,70.4,58.0,62.5,82.3,82.7,81.7
+" "," ","Planning Permissions Granted (Number)",3,1,2,1,2,2,4,1,..,..
+" "," ","Units for which Permission Granted (Number)",6,1,5,1,2,4,25,3,..,..
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,0,0,0,0,0,2,0,..,..
+" "," ","Average Floor Area per Unit (Sq Metres)",88.8,113.0,70.4,58.0,62.5,82.3,82.7,81.7,..,..
 " ","Cavan"
-" "," ","Planning Permissions Granted (Number)",..,2,3,1,..,..,1,2
-" "," ","Units for which Permission Granted (Number)",..,3,3,1,..,..,4,2
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",..,0,0,0,..,..,0,0
-" "," ","Average Floor Area per Unit (Sq Metres)",..,52.0,58.7,87.0,..,..,47.0,99.0
+" "," ","Planning Permissions Granted (Number)",..,2,3,1,..,..,1,2,..,..
+" "," ","Units for which Permission Granted (Number)",..,3,3,1,..,..,4,2,..,..
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",..,0,0,0,..,..,0,0,..,..
+" "," ","Average Floor Area per Unit (Sq Metres)",..,52.0,58.7,87.0,..,..,47.0,99.0,..,..
 " ","Donegal"
-" "," ","Planning Permissions Granted (Number)",3,2,3,6,1,4,6,3
-" "," ","Units for which Permission Granted (Number)",5,2,7,13,1,8,18,4
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,0,1,1,0,1,1,0
-" "," ","Average Floor Area per Unit (Sq Metres)",59.6,73.5,76.0,83.7,98.0,85.8,81.3,86.3
+" "," ","Planning Permissions Granted (Number)",3,2,3,6,1,4,6,3,5,3
+" "," ","Units for which Permission Granted (Number)",5,2,7,13,1,8,18,4,13,21
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,0,1,1,0,1,1,0,1,2
+" "," ","Average Floor Area per Unit (Sq Metres)",59.6,73.5,76.0,83.7,98.0,85.8,81.3,86.3,82.4,85.6
 " ","Monaghan"
-" "," ","Planning Permissions Granted (Number)",3,3,4,2,2,4,..,..
-" "," ","Units for which Permission Granted (Number)",3,14,7,9,8,8,..,..
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,1,1,1,0,1,..,..
-" "," ","Average Floor Area per Unit (Sq Metres)",96.7,72.2,89.3,109.9,59.0,75.0,..,..
+" "," ","Planning Permissions Granted (Number)",3,3,4,2,2,4,..,..,1,..
+" "," ","Units for which Permission Granted (Number)",3,14,7,9,8,8,..,..,3,..
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,1,1,1,0,1,..,..,0,..
+" "," ","Average Floor Area per Unit (Sq Metres)",96.7,72.2,89.3,109.9,59.0,75.0,..,..,84.3,..
 " ","West"
-" "," ","Planning Permissions Granted (Number)",12,12,15,15,11,9,17,10
-" "," ","Units for which Permission Granted (Number)",27,67,51,122,65,49,324,539
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,6,5,11,6,4,27,54
-" "," ","Average Floor Area per Unit (Sq Metres)",80.5,89.7,89.5,89.4,88.4,79.9,84.7,100.4
+" "," ","Planning Permissions Granted (Number)",12,12,15,15,11,9,17,10,15,3
+" "," ","Units for which Permission Granted (Number)",27,67,51,122,65,49,324,539,111,81
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,6,5,11,6,4,27,54,9,6
+" "," ","Average Floor Area per Unit (Sq Metres)",80.5,89.7,89.5,89.4,88.4,79.9,84.7,100.4,77.2,78.3
 " ","Galway"
-" "," ","Planning Permissions Granted (Number)",5,6,8,8,4,4,7,5
-" "," ","Units for which Permission Granted (Number)",14,13,34,112,4,4,93,49
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,1,3,10,0,0,8,5
-" "," ","Average Floor Area per Unit (Sq Metres)",87.7,83.4,93.9,89.7,66.3,82.3,91.4,101.5
+" "," ","Planning Permissions Granted (Number)",5,6,8,8,4,4,7,5,7,..
+" "," ","Units for which Permission Granted (Number)",14,13,34,112,4,4,93,49,8,..
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,1,3,10,0,0,8,5,1,..
+" "," ","Average Floor Area per Unit (Sq Metres)",87.7,83.4,93.9,89.7,66.3,82.3,91.4,101.5,87.3,..
 " ","Galway City"
-" "," ","Planning Permissions Granted (Number)",1,3,3,2,5,4,5,5
-" "," ","Units for which Permission Granted (Number)",5,50,4,3,59,44,225,490
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,5,0,0,5,4,19,49
-" "," ","Average Floor Area per Unit (Sq Metres)",80.2,91.4,65.3,101.0,91.1,80.2,82.3,100.3
+" "," ","Planning Permissions Granted (Number)",1,3,3,2,5,4,5,5,3,2
+" "," ","Units for which Permission Granted (Number)",5,50,4,3,59,44,225,490,65,80
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,5,0,0,5,4,19,49,5,6
+" "," ","Average Floor Area per Unit (Sq Metres)",80.2,91.4,65.3,101.0,91.1,80.2,82.3,100.3,78.6,78.6
 " ","Mayo"
-" "," ","Planning Permissions Granted (Number)",5,3,1,4,2,..,3,..
-" "," ","Units for which Permission Granted (Number)",7,4,1,4,2,..,4,..
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,0,0,0,0,..,0,..
-" "," ","Average Floor Area per Unit (Sq Metres)",69.9,88.8,37.0,59.8,56.0,..,66.3,..
+" "," ","Planning Permissions Granted (Number)",5,3,1,4,2,..,3,..,4,1
+" "," ","Units for which Permission Granted (Number)",7,4,1,4,2,..,4,..,12,1
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,0,0,0,0,..,0,..,1,0
+" "," ","Average Floor Area per Unit (Sq Metres)",69.9,88.8,37.0,59.8,56.0,..,66.3,..,78.3,53.0
 " ","Roscommon"
-" "," ","Planning Permissions Granted (Number)",1,..,3,1,..,1,2,..
-" "," ","Units for which Permission Granted (Number)",1,..,12,3,..,1,2,..
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,..,1,0,..,0,0,..
-" "," ","Average Floor Area per Unit (Sq Metres)",56.0,..,89.4,107.3,..,60.0,75.0,..
+" "," ","Planning Permissions Granted (Number)",1,..,3,1,..,1,2,..,1,..
+" "," ","Units for which Permission Granted (Number)",1,..,12,3,..,1,2,..,26,..
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,..,1,0,..,0,0,..,2,..
+" "," ","Average Floor Area per Unit (Sq Metres)",56.0,..,89.4,107.3,..,60.0,75.0,..,70.0,..
 " ","Southern"
-" "," ","Planning Permissions Granted (Number)",58,50,63,57,66,78,88,57
-" "," ","Units for which Permission Granted (Number)",239,619,341,628,399,428,706,872
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",20,56,40,49,35,38,54,65
-" "," ","Average Floor Area per Unit (Sq Metres)",85.3,90.4,117.2,78.7,87.4,88.3,76.2,74.2
+" "," ","Planning Permissions Granted (Number)",58,50,63,57,66,78,88,57,56,29
+" "," ","Units for which Permission Granted (Number)",239,619,341,628,399,428,706,872,453,397
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",20,56,40,49,35,38,54,65,33,31
+" "," ","Average Floor Area per Unit (Sq Metres)",85.3,90.4,117.2,78.7,87.4,88.3,76.2,74.2,73.1,76.9
 " ","Mid-West"
-" "," ","Planning Permissions Granted (Number)",15,6,15,9,13,13,20,12
-" "," ","Units for which Permission Granted (Number)",23,9,41,48,44,66,71,26
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,1,3,3,4,5,5,2
-" "," ","Average Floor Area per Unit (Sq Metres)",72.2,71.8,67.2,69.8,83.5,79.8,76.5,73.9
+" "," ","Planning Permissions Granted (Number)",15,6,15,9,13,13,20,12,12,7
+" "," ","Units for which Permission Granted (Number)",23,9,41,48,44,66,71,26,88,38
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,1,3,3,4,5,5,2,6,3
+" "," ","Average Floor Area per Unit (Sq Metres)",72.2,71.8,67.2,69.8,83.5,79.8,76.5,73.9,63.6,77.2
 " ","Clare"
-" "," ","Planning Permissions Granted (Number)",3,1,5,..,3,5,7,2
-" "," ","Units for which Permission Granted (Number)",3,1,5,..,5,5,20,3
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,0,0,..,0,0,1,0
-" "," ","Average Floor Area per Unit (Sq Metres)",65.7,125.0,82.4,..,93.4,68.0,64.0,80.3
+" "," ","Planning Permissions Granted (Number)",3,1,5,..,3,5,7,2,3,..
+" "," ","Units for which Permission Granted (Number)",3,1,5,..,5,5,20,3,3,..
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,0,0,..,0,0,1,0,0,..
+" "," ","Average Floor Area per Unit (Sq Metres)",65.7,125.0,82.4,..,93.4,68.0,64.0,80.3,75.7,..
 " ","Limerick"
-" "," ","Planning Permissions Granted (Number)",6,3,7,8,7,8,10,6
-" "," ","Units for which Permission Granted (Number)",9,6,33,41,36,61,48,10
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,0,2,3,3,5,4,1
-" "," ","Average Floor Area per Unit (Sq Metres)",72.0,53.2,60.3,72.3,80.2,80.7,79.5,70.5
+" "," ","Planning Permissions Granted (Number)",6,3,7,8,7,8,10,6,5,4
+" "," ","Units for which Permission Granted (Number)",9,6,33,41,36,61,48,10,12,16
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,0,2,3,3,5,4,1,1,2
+" "," ","Average Floor Area per Unit (Sq Metres)",72.0,53.2,60.3,72.3,80.2,80.7,79.5,70.5,55.6,99.4
 " ","Tipperary"
-" "," ","Planning Permissions Granted (Number)",6,2,3,1,3,..,3,4
-" "," ","Units for which Permission Granted (Number)",11,2,3,7,3,..,3,13
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,0,0,0,0,..,0,1
-" "," ","Average Floor Area per Unit (Sq Metres)",74.1,101.0,118.0,55.1,106.0,..,112.0,75.0
+" "," ","Planning Permissions Granted (Number)",6,2,3,1,3,..,3,4,4,3
+" "," ","Units for which Permission Granted (Number)",11,2,3,7,3,..,3,13,73,22
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,0,0,0,0,..,0,1,5,1
+" "," ","Average Floor Area per Unit (Sq Metres)",74.1,101.0,118.0,55.1,106.0,..,112.0,75.0,64.5,61.1
 " ","South-East"
-" "," ","Planning Permissions Granted (Number)",18,12,18,16,21,22,29,12
-" "," ","Units for which Permission Granted (Number)",49,43,37,55,77,182,249,102
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",4,3,3,4,7,17,20,11
-" "," ","Average Floor Area per Unit (Sq Metres)",88.0,62.1,76.1,72.9,89.7,91.6,79.0,103.9
+" "," ","Planning Permissions Granted (Number)",18,12,18,16,21,22,29,12,20,9
+" "," ","Units for which Permission Granted (Number)",49,43,37,55,77,182,249,102,82,33
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",4,3,3,4,7,17,20,11,7,2
+" "," ","Average Floor Area per Unit (Sq Metres)",88.0,62.1,76.1,72.9,89.7,91.6,79.0,103.9,88.7,60.5
 " ","Carlow"
-" "," ","Planning Permissions Granted (Number)",1,2,1,3,1,3,1,..
-" "," ","Units for which Permission Granted (Number)",2,2,2,5,8,6,12,..
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,0,0,0,1,1,1,..
-" "," ","Average Floor Area per Unit (Sq Metres)",98.0,83.0,91.0,64.6,116.1,88.7,93.6,..
+" "," ","Planning Permissions Granted (Number)",1,2,1,3,1,3,1,..,1,1
+" "," ","Units for which Permission Granted (Number)",2,2,2,5,8,6,12,..,4,4
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,0,0,0,1,1,1,..,0,0
+" "," ","Average Floor Area per Unit (Sq Metres)",98.0,83.0,91.0,64.6,116.1,88.7,93.6,..,83.0,68.0
 " ","Kilkenny"
-" "," ","Planning Permissions Granted (Number)",7,2,4,3,6,5,7,3
-" "," ","Units for which Permission Granted (Number)",19,3,15,27,10,22,25,15
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,0,1,2,1,2,2,1
-" "," ","Average Floor Area per Unit (Sq Metres)",90.1,60.3,73.0,77.2,117.2,112.2,63.2,80.1
+" "," ","Planning Permissions Granted (Number)",7,2,4,3,6,5,7,3,4,2
+" "," ","Units for which Permission Granted (Number)",19,3,15,27,10,22,25,15,8,16
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,0,1,2,1,2,2,1,0,1
+" "," ","Average Floor Area per Unit (Sq Metres)",90.1,60.3,73.0,77.2,117.2,112.2,63.2,80.1,51.6,54.7
 " ","Wexford"
-" "," ","Planning Permissions Granted (Number)",8,4,9,7,8,8,16,5
-" "," ","Units for which Permission Granted (Number)",26,6,13,12,52,100,61,75
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,0,1,1,4,10,5,9
-" "," ","Average Floor Area per Unit (Sq Metres)",86.4,54.5,77.2,86.0,85.6,101.3,80.6,114.1
+" "," ","Planning Permissions Granted (Number)",8,4,9,7,8,8,16,5,8,4
+" "," ","Units for which Permission Granted (Number)",26,6,13,12,52,100,61,75,55,4
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",2,0,1,1,4,10,5,9,5,0
+" "," ","Average Floor Area per Unit (Sq Metres)",86.4,54.5,77.2,86.0,85.6,101.3,80.6,114.1,95.2,86.5
 " ","Waterford"
-" "," ","Planning Permissions Granted (Number)",2,4,4,3,6,6,5,4
-" "," ","Units for which Permission Granted (Number)",2,32,7,11,7,54,151,12
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,2,1,1,0,4,12,1
-" "," ","Average Floor Area per Unit (Sq Metres)",80.5,62.4,76.3,51.6,50.9,65.6,79.8,69.4
+" "," ","Planning Permissions Granted (Number)",2,4,4,3,6,6,5,4,7,2
+" "," ","Units for which Permission Granted (Number)",2,32,7,11,7,54,151,12,15,9
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,2,1,1,0,4,12,1,1,1
+" "," ","Average Floor Area per Unit (Sq Metres)",80.5,62.4,76.3,51.6,50.9,65.6,79.8,69.4,86.1,56.1
 " ","South-West"
-" "," ","Planning Permissions Granted (Number)",25,32,30,32,32,43,39,33
-" "," ","Units for which Permission Granted (Number)",167,567,263,525,278,180,386,744
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",14,53,34,42,24,16,29,52
-" "," ","Average Floor Area per Unit (Sq Metres)",86.3,92.9,130.8,80.1,87.4,88.1,74.4,70.1
+" "," ","Planning Permissions Granted (Number)",25,32,30,32,32,43,39,33,24,13
+" "," ","Units for which Permission Granted (Number)",167,567,263,525,278,180,386,744,283,326
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",14,53,34,42,24,16,29,52,20,26
+" "," ","Average Floor Area per Unit (Sq Metres)",86.3,92.9,130.8,80.1,87.4,88.1,74.4,70.1,71.6,78.6
 " ","Cork"
-" "," ","Planning Permissions Granted (Number)",5,18,21,19,20,14,7,6
-" "," ","Units for which Permission Granted (Number)",30,34,67,481,113,61,268,457
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",3,2,6,38,9,5,18,30
-" "," ","Average Floor Area per Unit (Sq Metres)",106.0,71.9,85.7,79.2,79.7,78.1,68.3,65.7
+" "," ","Planning Permissions Granted (Number)",5,18,21,19,20,26,23,21,15,6
+" "," ","Units for which Permission Granted (Number)",30,34,67,481,113,114,90,279,40,59
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",3,2,6,38,9,11,8,21,3,4
+" "," ","Average Floor Area per Unit (Sq Metres)",106.0,71.9,85.7,79.2,79.7,93.8,85.1,76.1,78.7,74.5
 " ","Cork City"
-" "," ","Planning Permissions Granted (Number)",17,8,4,6,4,26,23,21
-" "," ","Units for which Permission Granted (Number)",134,503,191,34,151,114,90,279
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",11,47,28,3,14,11,8,21
-" "," ","Average Floor Area per Unit (Sq Metres)",80.8,94.0,147.4,87.3,94.2,93.8,85.1,76.1
+" "," ","Planning Permissions Granted (Number)",17,8,4,6,4,14,7,6,7,5
+" "," ","Units for which Permission Granted (Number)",134,503,191,34,151,61,268,457,239,265
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",11,47,28,3,14,5,18,30,17,21
+" "," ","Average Floor Area per Unit (Sq Metres)",80.8,94.0,147.4,87.3,94.2,78.1,68.3,65.7,69.8,79.6
 " ","Kerry"
-" "," ","Planning Permissions Granted (Number)",3,6,5,7,8,3,9,6
-" "," ","Units for which Permission Granted (Number)",3,30,5,10,14,5,28,8
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,3,0,1,1,0,3,1
-" "," ","Average Floor Area per Unit (Sq Metres)",136.0,97.2,97.2,102.1,76.7,79.2,98.8,114.6
+" "," ","Planning Permissions Granted (Number)",3,6,5,7,8,3,9,6,2,2
+" "," ","Units for which Permission Granted (Number)",3,30,5,10,14,5,28,8,4,2
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,3,0,1,1,0,3,1,0,0
+" "," ","Average Floor Area per Unit (Sq Metres)",136.0,97.2,97.2,102.1,76.7,79.2,98.8,114.6,105.8,58.0
 " ","Eastern and Midland"
-" "," ","Planning Permissions Granted (Number)",82,90,121,78,114,105,113,98
-" "," ","Units for which Permission Granted (Number)",1587,1119,2725,1532,2117,4176,4579,6239
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",136,103,232,127,185,346,347,476
-" "," ","Average Floor Area per Unit (Sq Metres)",85.6,91.8,85.2,82.9,87.2,82.9,75.7,76.2
+" "," ","Planning Permissions Granted (Number)",82,90,121,78,114,105,113,98,114,65
+" "," ","Units for which Permission Granted (Number)",1587,1119,2725,1532,2117,4176,4579,6239,9114,3243
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",136,103,232,127,185,346,347,476,684,231
+" "," ","Average Floor Area per Unit (Sq Metres)",85.6,91.8,85.2,82.9,87.2,82.9,75.7,76.2,75.0,71.1
 " ","Dublin"
-" "," ","Planning Permissions Granted (Number)",43,44,72,45,63,60,74,54
-" "," ","Units for which Permission Granted (Number)",1320,827,2044,1218,1830,3178,4156,4946
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",113,74,178,103,160,260,308,371
-" "," ","Average Floor Area per Unit (Sq Metres)",85.3,89.8,86.9,84.7,87.3,81.8,74.1,75.0
+" "," ","Planning Permissions Granted (Number)",43,44,72,45,63,60,74,54,70,31
+" "," ","Units for which Permission Granted (Number)",1320,827,2044,1218,1830,3178,4156,4946,8024,2913
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",113,74,178,103,160,260,308,371,589,202
+" "," ","Average Floor Area per Unit (Sq Metres)",85.3,89.8,86.9,84.7,87.3,81.8,74.1,75.0,73.4,69.5
 " ","Dublin City"
-" "," ","Planning Permissions Granted (Number)",24,18,27,26,33,31,38,26
-" "," ","Units for which Permission Granted (Number)",998,194,264,458,730,752,2135,3293
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",84,17,24,42,58,57,148,242
-" "," ","Average Floor Area per Unit (Sq Metres)",84.0,86.0,90.6,91.5,79.3,76.2,69.1,73.5
+" "," ","Planning Permissions Granted (Number)",24,18,27,26,33,31,38,26,31,15
+" "," ","Units for which Permission Granted (Number)",998,194,264,458,730,752,2135,3293,3668,865
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",84,17,24,42,58,57,148,242,260,56
+" "," ","Average Floor Area per Unit (Sq Metres)",84.0,86.0,90.6,91.5,79.3,76.2,69.1,73.5,71.0,64.4
 " ","South Dublin"
-" "," ","Planning Permissions Granted (Number)",6,4,10,5,6,5,3,5
-" "," ","Units for which Permission Granted (Number)",94,45,86,396,51,473,3,585
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",9,4,8,30,5,34,0,49
-" "," ","Average Floor Area per Unit (Sq Metres)",94.1,90.2,89.7,75.3,92.1,72.7,48.3,83.1
+" "," ","Planning Permissions Granted (Number)",6,4,10,5,6,5,3,5,12,6
+" "," ","Units for which Permission Granted (Number)",94,45,86,396,51,473,3,585,1996,880
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",9,4,8,30,5,34,0,49,153,64
+" "," ","Average Floor Area per Unit (Sq Metres)",94.1,90.2,89.7,75.3,92.1,72.7,48.3,83.1,76.4,72.3
 " ","Fingal"
-" "," ","Planning Permissions Granted (Number)",7,8,12,5,9,10,4,6
-" "," ","Units for which Permission Granted (Number)",192,242,253,8,210,1136,6,6
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",17,20,21,1,17,99,0,0
-" "," ","Average Floor Area per Unit (Sq Metres)",90.8,81.0,82.2,88.8,80.8,86.8,59.0,69.8
+" "," ","Planning Permissions Granted (Number)",7,8,12,5,9,10,4,6,12,3
+" "," ","Units for which Permission Granted (Number)",192,242,253,8,210,1136,6,6,1088,612
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",17,20,21,1,17,99,0,0,87,42
+" "," ","Average Floor Area per Unit (Sq Metres)",90.8,81.0,82.2,88.8,80.8,86.8,59.0,69.8,79.5,69.3
 " ","Dun Laoghaire - Rathdown"
-" "," ","Planning Permissions Granted (Number)",6,14,23,9,15,14,29,17
-" "," ","Units for which Permission Granted (Number)",36,346,1441,356,839,817,2012,1062
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",3,34,125,31,80,70,160,80
-" "," ","Average Floor Area per Unit (Sq Metres)",69.6,98.1,86.8,86.4,95.5,85.3,79.5,75.2
+" "," ","Planning Permissions Granted (Number)",6,14,23,9,15,14,29,17,15,7
+" "," ","Units for which Permission Granted (Number)",36,346,1441,356,839,817,2012,1062,1272,556
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",3,34,125,31,80,70,160,80,90,41
+" "," ","Average Floor Area per Unit (Sq Metres)",69.6,98.1,86.8,86.4,95.5,85.3,79.5,75.2,70.7,73.3
 " ","Mid-East"
-" "," ","Planning Permissions Granted (Number)",31,34,36,30,39,37,28,33
-" "," ","Units for which Permission Granted (Number)",244,266,644,306,259,965,369,1264
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",22,26,52,23,21,83,33,102
-" "," ","Average Floor Area per Unit (Sq Metres)",88.9,99.2,80.9,76.4,82.2,86.0,89.3,80.9
+" "," ","Planning Permissions Granted (Number)",31,34,36,30,39,37,28,33,35,22
+" "," ","Units for which Permission Granted (Number)",244,266,644,306,259,965,369,1264,1031,231
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",22,26,52,23,21,83,33,102,89,21
+" "," ","Average Floor Area per Unit (Sq Metres)",88.9,99.2,80.9,76.4,82.2,86.0,89.3,80.9,86.8,89.3
 " ","Kildare"
-" "," ","Planning Permissions Granted (Number)",8,16,7,7,18,13,9,10
-" "," ","Units for which Permission Granted (Number)",10,217,486,172,63,100,206,207
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,22,38,14,4,8,17,17
-" "," ","Average Floor Area per Unit (Sq Metres)",69.7,100.3,79.2,80.6,69.6,78.3,82.7,81.6
+" "," ","Planning Permissions Granted (Number)",8,16,7,7,18,13,9,10,7,7
+" "," ","Units for which Permission Granted (Number)",10,217,486,172,63,100,206,207,164,27
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,22,38,14,4,8,17,17,12,2
+" "," ","Average Floor Area per Unit (Sq Metres)",69.7,100.3,79.2,80.6,69.6,78.3,82.7,81.6,70.6,82.8
 " ","Louth"
-" "," ","Planning Permissions Granted (Number)",8,4,7,9,3,5,..,6
-" "," ","Units for which Permission Granted (Number)",58,7,110,98,23,254,..,601
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,1,9,6,2,19,..,47
-" "," ","Average Floor Area per Unit (Sq Metres)",85.4,82.1,83.8,65.4,72.9,76.5,..,78.1
+" "," ","Planning Permissions Granted (Number)",8,4,7,9,3,5,..,6,7,3
+" "," ","Units for which Permission Granted (Number)",58,7,110,98,23,254,..,601,145,157
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,1,9,6,2,19,..,47,12,15
+" "," ","Average Floor Area per Unit (Sq Metres)",85.4,82.1,83.8,65.4,72.9,76.5,..,78.1,86.2,92.4
 " ","Meath"
-" "," ","Planning Permissions Granted (Number)",8,9,16,9,8,16,13,13
-" "," ","Units for which Permission Granted (Number)",112,33,24,25,49,602,154,249
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",11,3,2,2,4,55,15,22
-" "," ","Average Floor Area per Unit (Sq Metres)",99.1,103.8,91.8,97.0,73.6,91.3,99.9,89.9
+" "," ","Planning Permissions Granted (Number)",8,9,16,9,8,16,13,13,13,7
+" "," ","Units for which Permission Granted (Number)",112,33,24,25,49,602,154,249,227,21
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",11,3,2,2,4,55,15,22,21,2
+" "," ","Average Floor Area per Unit (Sq Metres)",99.1,103.8,91.8,97.0,73.6,91.3,99.9,89.9,90.9,76.2
 " ","Wicklow"
-" "," ","Planning Permissions Granted (Number)",7,5,6,5,10,3,6,4
-" "," ","Units for which Permission Granted (Number)",64,9,24,11,124,9,9,207
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,1,2,1,12,1,1,16
-" "," ","Average Floor Area per Unit (Sq Metres)",77.2,68.1,92.5,61.3,93.8,86.8,59.6,77.4
+" "," ","Planning Permissions Granted (Number)",7,5,6,5,10,3,6,4,8,5
+" "," ","Units for which Permission Granted (Number)",64,9,24,11,124,9,9,207,495,26
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",5,1,2,1,12,1,1,16,45,2
+" "," ","Average Floor Area per Unit (Sq Metres)",77.2,68.1,92.5,61.3,93.8,86.8,59.6,77.4,90.4,87.8
 " ","Midland"
-" "," ","Planning Permissions Granted (Number)",8,12,13,3,12,8,11,11
-" "," ","Units for which Permission Granted (Number)",23,26,37,8,28,33,54,29
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,2,3,1,4,3,6,2
-" "," ","Average Floor Area per Unit (Sq Metres)",63.8,76.5,70.4,64.6,127.3,98.8,104.4,83.1
+" "," ","Planning Permissions Granted (Number)",8,12,13,3,12,8,11,11,9,12
+" "," ","Units for which Permission Granted (Number)",23,26,37,8,28,33,54,29,59,99
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,2,3,1,4,3,6,2,5,8
+" "," ","Average Floor Area per Unit (Sq Metres)",63.8,76.5,70.4,64.6,127.3,98.8,104.4,83.1,83.9,77.6
 " ","Laois"
-" "," ","Planning Permissions Granted (Number)",2,3,3,1,4,3,4,4
-" "," ","Units for which Permission Granted (Number)",4,3,4,3,4,3,46,16
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,0,0,0,1,0,5,1
-" "," ","Average Floor Area per Unit (Sq Metres)",99.3,95.3,56.8,80.3,151.8,77.7,111.7,89.4
+" "," ","Planning Permissions Granted (Number)",2,3,3,1,4,3,4,4,3,5
+" "," ","Units for which Permission Granted (Number)",4,3,4,3,4,3,46,16,3,63
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,0,0,0,1,0,5,1,0,5
+" "," ","Average Floor Area per Unit (Sq Metres)",99.3,95.3,56.8,80.3,151.8,77.7,111.7,89.4,66.3,82.0
 " ","Longford"
-" "," ","Planning Permissions Granted (Number)",2,..,3,1,..,..,1,1
-" "," ","Units for which Permission Granted (Number)",2,..,11,4,..,..,1,1
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,..,1,0,..,..,0,0
-" "," ","Average Floor Area per Unit (Sq Metres)",63.0,..,85.8,51.0,..,..,61.0,86.0
+" "," ","Planning Permissions Granted (Number)",2,..,3,1,..,..,1,1,1,..
+" "," ","Units for which Permission Granted (Number)",2,..,11,4,..,..,1,1,1,..
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,..,1,0,..,..,0,0,0,..
+" "," ","Average Floor Area per Unit (Sq Metres)",63.0,..,85.8,51.0,..,..,61.0,86.0,115.0,..
 " ","Offaly"
-" "," ","Planning Permissions Granted (Number)",1,5,2,1,3,..,5,2
-" "," ","Units for which Permission Granted (Number)",2,8,17,1,4,..,5,4
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,0,1,0,0,..,0,0
-" "," ","Average Floor Area per Unit (Sq Metres)",110.5,50.0,61.5,72.0,65.8,..,65.4,71.5
+" "," ","Planning Permissions Granted (Number)",1,5,2,1,3,..,5,2,2,3
+" "," ","Units for which Permission Granted (Number)",2,8,17,1,4,..,5,4,28,12
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",0,0,1,0,0,..,0,0,2,1
+" "," ","Average Floor Area per Unit (Sq Metres)",110.5,50.0,61.5,72.0,65.8,..,65.4,71.5,85.4,67.2
 " ","Westmeath"
-" "," ","Planning Permissions Granted (Number)",3,4,5,..,5,5,1,4
-" "," ","Units for which Permission Granted (Number)",15,15,5,..,20,30,2,8
-" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,1,0,..,3,3,0,1
-" "," ","Average Floor Area per Unit (Sq Metres)",48.3,86.9,77.4,..,134.7,100.9,56.5,75.8
+" "," ","Planning Permissions Granted (Number)",3,4,5,..,5,5,1,4,3,4
+" "," ","Units for which Permission Granted (Number)",15,15,5,..,20,30,2,8,27,24
+" "," ","Total Floor Area for which Permission Granted (000 Sq Metres)",1,1,0,..,3,3,0,1,2,2
+" "," ","Average Floor Area per Unit (Sq Metres)",48.3,86.9,77.4,..,134.7,100.9,56.5,75.8,83.1,71.1
 
 "Data for Cork and Cork City has been been amended due to the "
 "reclassification of codes for these areas from Q12018 to Q42018. "
