@@ -50,9 +50,10 @@ while True:
         iot_message_json['moisture']=moisture
         iot_message_json['capturedate']=now.strftime('%Y-%m-%d %H:%M:%S')
         iot_message = Message(json.dumps(iot_message_json))
+        #print(iot_message)
         iot_client.send_message(iot_message)
         print('mesage sent...',now.strftime('%Y-%m-%d %H:%M:%S'))
-        time.sleep(120)
+        time.sleep(300)
 
     except KeyboardInterrupt:
         print ('Session ended by user')
