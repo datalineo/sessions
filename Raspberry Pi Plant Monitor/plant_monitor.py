@@ -13,6 +13,12 @@ import json
 import datetime
 
 # ---------------------------------
+# Set local variables
+# ---------------------------------
+moisture_sensor_port = 0
+
+
+# ---------------------------------
 # Get configuration settings
 # ---------------------------------
 
@@ -27,11 +33,10 @@ units = config.get('openweathermap','units')
 iot_connection_string = config.get('azure-iot','iot-connection-string')
 
 # ---------------------------------
-# Set variables
+# Set structure for IoT message
 # ---------------------------------
 
 iot_text = '{{"moisture": {moisture},"weather":{humidity}}}'
-sensor = 0
 url = '{0}?q={1}&appid={2}&units={3}'.format(endpoint,location,api_key,units)
 
 
@@ -49,7 +54,7 @@ while True:
     try:
         now = datetime.datetime.now()
         # Get the moisture sensor reading
-        soil_moisture = grovepi.analogRead(sensor)
+        soil_moisture = grovepi.analogRead(moisture_sensor_port)
         # Get the Temp/Humidity/Pressure sensor readings
         inside_temp = thp_sensor.safe_celsius()
         inside_humidity = thp_sensor.safe_humidity()
@@ -58,16 +63,17 @@ while True:
         response = session.get(url)
         iot_message_json = response.json()
         # Add the sensor & date info to the API response
-        iot_message_json['soil_moisture']=soil_moisture
         iot_message_json['capturedate']=now.strftime('%Y-%m-%d %H:%M:%S')
+        iot_message_json['soil_moisture']=soil_moisture
         iot_message_json['inside_temp']=inside_temp
         iot_message_json['inside_humidity']=inside_humidity
         iot_message_json['inside_pressure']=inside_pressure
         iot_message = Message(json.dumps(iot_message_json))
         #print(iot_message)
-        #iot_client.send_message(iot_message)
+        iot_client.send_message(iot_message)
         print('mesage sent...',now.strftime('%Y-%m-%d %H:%M:%S'))
-        time.sleep(5)
+        #print('moisture:',soil_moisture)
+        time.sleep(300)
 
     except KeyboardInterrupt:
         print ('Session ended by user')
