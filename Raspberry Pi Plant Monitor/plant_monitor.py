@@ -6,8 +6,10 @@
 import time
 import grovepi
 import requests
+import picamera
 from configparser import ConfigParser
 from azure.iot.device import IoTHubDeviceClient, Message
+from azure.storage.blob import BlobServiceClient, BlobClient, ContainerClient
 from di_sensors.easy_temp_hum_press import EasyTHPSensor
 import json
 import datetime
@@ -31,6 +33,9 @@ api_key = config.get('openweathermap','api_key')
 location = config.get('openweathermap','location')
 units = config.get('openweathermap','units')
 iot_connection_string = config.get('azure-iot','iot-connection-string')
+storage_connection_string=config.get('azure-storage','storage_connection_string')
+storage_container=config.get('azure-storage','container')
+img_file_name_fixed = 'plant_monitor_current.jpg'
 
 # ---------------------------------
 # Set structure for IoT message
@@ -49,6 +54,8 @@ session = requests.session()
 iot_client = IoTHubDeviceClient.create_from_connection_string(iot_connection_string)
 # THP sensor
 thp_sensor = EasyTHPSensor()
+# Azure Blob service client
+blob_service_client = BlobServiceClient.from_connection_string(storage_connection_string)
 
 while True:
     try:
@@ -71,13 +78,39 @@ while True:
         iot_message = Message(json.dumps(iot_message_json))
         #print(iot_message)
         iot_client.send_message(iot_message)
-        print('mesage sent...',now.strftime('%Y-%m-%d %H:%M:%S'))
         #print('moisture:',soil_moisture)
+
+        # -----------------------------------
+        # Capture te image & save to Azure blob
+        # -----------------------------------
+        img_file_name_timestamp = 'image_{0}.jpg'.format(now.strftime('%Y%m%d_%H%M%S'))
+
+        camera = picamera.PiCamera()
+        camera.resolution = (640,480)
+        ## alo th camer to warm up & focus
+        time.sleep(2)
+        camera.capture(img_file_name_fixed)
+        camera.close()
+
+        # To be done: put logic to only cature images in daylight hours
+        
+        # overwrite the image used for power BI reports
+        fixed_blob_client = blob_service_client.get_blob_client(container=storage_container,blob=img_file_name_fixed)
+        with open(img_file_name_fixed,'rb') as fixxy:
+            fixed_blob_client.upload_blob(fixxy,overwrite=True)
+
+        # create timestamped version, for potential time-lapse views 
+        timestamp_blob_client = blob_service_client.get_blob_client(container=storage_container,blob=img_file_name_timestamp)
+        with open(img_file_name_fixed,'rb') as stampy:
+            timestamp_blob_client.upload_blob(stampy,overwrite=True)
+
+        print('mesage sent, image captured...',now.strftime('%Y-%m-%d %H:%M:%S'))
         time.sleep(300)
 
     except KeyboardInterrupt:
         print ('Session ended by user')
         break
-    except IOError:
-        print ("Error")
-        exit()
+    except IOError as io_error:
+        print (io_error)
+
+
