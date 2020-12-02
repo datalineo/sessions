@@ -18,7 +18,7 @@ import datetime
 # Set local variables
 # ---------------------------------
 moisture_sensor_port = 0
-
+capture_date = datetime.datetime.now()
 
 # ---------------------------------
 # Get configuration settings
@@ -85,15 +85,16 @@ while True:
         # -----------------------------------
         img_file_name_timestamp = 'image_{0}.jpg'.format(now.strftime('%Y%m%d_%H%M%S'))
 
-        camera = picamera.PiCamera()
-        camera.resolution = (640,480)
-        ## alo th camer to warm up & focus
-        time.sleep(2)
-        camera.capture(img_file_name_fixed)
-        camera.close()
+        capture_diff = now - capture_date
+        if now.hour == 12 and capture_diff.days > 0:
+            camera = picamera.PiCamera()
+            camera.resolution = (640,480)
+            # allow th camer to warm up & focus
+            time.sleep(2)
+            camera.capture(img_file_name_fixed)
+            camera.close()
+            capture_date = datetime.datetime.now()
 
-        # To be done: put logic to only cature images in daylight hours
-        
         # overwrite the image used for power BI reports
         fixed_blob_client = blob_service_client.get_blob_client(container=storage_container,blob=img_file_name_fixed)
         with open(img_file_name_fixed,'rb') as fixxy:
@@ -104,8 +105,8 @@ while True:
         with open(img_file_name_fixed,'rb') as stampy:
             timestamp_blob_client.upload_blob(stampy,overwrite=True)
 
-        print('mesage sent, image captured...',now.strftime('%Y-%m-%d %H:%M:%S'))
-        time.sleep(300)
+        print('mesage sent...',now.strftime('%Y-%m-%d %H:%M:%S'))
+        time.sleep(900)
 
     except KeyboardInterrupt:
         print ('Session ended by user')
