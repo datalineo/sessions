@@ -81,7 +81,7 @@ while True:
         #print('moisture:',soil_moisture)
 
         # -----------------------------------
-        # Capture te image & save to Azure blob
+        # Capture the image & save to Azure blob
         # -----------------------------------
         img_file_name_timestamp = 'image_{0}.jpg'.format(now.strftime('%Y%m%d_%H%M%S'))
 
@@ -95,15 +95,15 @@ while True:
             camera.close()
             capture_date = datetime.datetime.now()
 
-        # overwrite the image used for power BI reports
-        fixed_blob_client = blob_service_client.get_blob_client(container=storage_container,blob=img_file_name_fixed)
-        with open(img_file_name_fixed,'rb') as fixxy:
-            fixed_blob_client.upload_blob(fixxy,overwrite=True)
+            # overwrite the image used for power BI reports
+            fixed_blob_client = blob_service_client.get_blob_client(container=storage_container,blob=img_file_name_fixed)
+            with open(img_file_name_fixed,'rb') as fixxy:
+                fixed_blob_client.upload_blob(fixxy,overwrite=True)
 
-        # create timestamped version, for potential time-lapse views 
-        timestamp_blob_client = blob_service_client.get_blob_client(container=storage_container,blob=img_file_name_timestamp)
-        with open(img_file_name_fixed,'rb') as stampy:
-            timestamp_blob_client.upload_blob(stampy,overwrite=True)
+            # create timestamped version, for potential time-lapse views 
+            timestamp_blob_client = blob_service_client.get_blob_client(container=storage_container,blob=img_file_name_timestamp)
+            with open(img_file_name_fixed,'rb') as stampy:
+                timestamp_blob_client.upload_blob(stampy,overwrite=True)
 
         print('mesage sent...',now.strftime('%Y-%m-%d %H:%M:%S'))
         time.sleep(900)
