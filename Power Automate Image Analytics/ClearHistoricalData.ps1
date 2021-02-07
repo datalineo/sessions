@@ -3,7 +3,8 @@
 # --------------------------
 #Install-Module -Name MicrosoftPowerBIMgmt -Force
 #Install-Module -Name sqlserver -Force
-#Install-Module -Name Azure -Force
+#Install-Module Az.Storage -Force
+
 
 # --------------------------
 # Power BI Login
@@ -46,9 +47,9 @@ Invoke-Sqlcmd -ServerInstance $servername -Username $username -Password $passwor
 # Deleted attachment from Azure Blob
 # ------------
 Write-Host("Azure Blob emptying...")
-$ctx = New-AzureStorageContext -StorageAccountName $StorageAccountName -StorageAccountKey $StorageAccountKey
-Get-AzureStorageBlob -Container $ContainerName1 -Context $ctx | Remove-AzureStorageBlob 
-Get-AzureStorageBlob -Container $ContainerName2 -Context $ctx | Remove-AzureStorageBlob 
+$ctx = New-AzStorageContext -StorageAccountName $StorageAccountName -StorageAccountKey $StorageAccountKey
+Get-AzStorageBlob -Container $ContainerName1 -Context $ctx | Remove-AzStorageBlob 
+Get-AzStorageBlob -Container $ContainerName2 -Context $ctx | Remove-AzStorageBlob 
 
 # ------------
 # Finito
