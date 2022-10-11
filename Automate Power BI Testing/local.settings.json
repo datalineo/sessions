@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+
+    "AZURE_CLIENT_ID":"SNIPPED",
+    "AZURE_CLIENT_SECRET": "SNIPPED",
+    "AZURE_TENANT_ID":"SNIPPED",
+
+    "dlPowerBiDataset" : "SNIPPED",
+    "dlBlobContainer":"https://snipped.blob.core.windows.net/autovalidation",
+    "dlBlobSasToken":"?sp=racwdl&st=2022-09-09T23:00:00Z&se=2023-12-31T23:59:59Z&SNIPED",
+    
+    "dlAvConnString":"mssql+pyodbc:///?odbc_connect=DRIVER={ODBC Driver 17 for SQL Server};SERVER=snipped.database.windows.net;DATABASE=AutoValidation;UID=AutoValidation;PWD=snipped",
+    "dlSourceConnString":"mssql+pyodbc:///?odbc_connect=DRIVER={ODBC Driver 17 for SQL Server};SERVER=snipped.database.windows.net;DATABASE=AdventureWorksDW;UID=AutoValidation;PWD=snipped"
+  }
+}
