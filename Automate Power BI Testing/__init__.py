@@ -1,5 +1,4 @@
 import logging
-#import pyodbc
 import os
 import pandas as pd
 import azure.functions as func
@@ -9,7 +8,6 @@ import sqlalchemy
 import datalineo as dl
 import uuid
 from azure.storage.blob import BlobClient
-#from time import sleep
 from azure.identity import ClientSecretCredential, DefaultAzureCredential
 import requests
 
@@ -21,12 +19,8 @@ import requests
 def standardize_dataframe(df, date_column_list):
         # Set all column headers to 1,2,3..
         # set any date/time columns to the correct data type
-        # Hash every row
-        # Sum the hashed row value
         df.columns = range(df.shape[1])
         df[date_column_list] = df[date_column_list].apply(pd.to_datetime)
-        #df_hashed = pd.util.hash_pandas_object(df, index=False, encoding='utf8', categorize=False)
-        #hash_result = df_hashed.sum()
         return df
 
 # -----------------------------------------------
